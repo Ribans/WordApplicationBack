@@ -1,17 +1,14 @@
 require 'bundler/setup'
 Bundler.require
-# require "sinatra"
-# require "sinatra/base"
-# require "sinatra/reloader"
+require "sinatra/reloader" if development?
 require "pry" if development?
-# require "json"
 require "./models"
 
 not_found do
   {error: 404}.to_json
 end
 
-get '/' do
-  "Helloworld"
+get '/auth' do
+  erb :"auth/login", :layout => :"layout/default"
 end
 
