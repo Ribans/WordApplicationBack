@@ -10,16 +10,24 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170926231142) do
+ActiveRecord::Schema.define(version: 20171030081009) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "nanas", force: :cascade do |t|
-    t.string "comment"
-    t.integer "status", default: 0, null: false
-    t.json "files"
-    t.string "media_ids"
+  create_table "users", force: :cascade do |t|
+    t.integer "users", default: 0, null: false
+    t.string "provider"
+    t.string "uid"
+    t.string "name"
+    t.integer "authority", default: 0, null: false
+  end
+
+  create_table "words", force: :cascade do |t|
+    t.string "jpanese"
+    t.string "english"
+    t.string "meaning"
+    t.integer "category", default: 0, null: false
   end
 
 end
