@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171030081009) do
+ActiveRecord::Schema.define(version: 20171030084720) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -21,6 +21,13 @@ ActiveRecord::Schema.define(version: 20171030081009) do
     t.string "uid"
     t.string "name"
     t.integer "authority", default: 0, null: false
+  end
+
+  create_table "word_that_the_user_learneds", force: :cascade do |t|
+    t.integer "user_id"
+    t.integer "word_id"
+    t.integer "challenge_count"
+    t.integer "status", default: 0, null: false
   end
 
   create_table "words", force: :cascade do |t|
