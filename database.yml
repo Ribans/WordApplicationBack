@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  encodeing: unicode
+  host: db
+  database: ankimo_dev
+  username: postgres
+  pool: 20
+  timeout: 15000
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
