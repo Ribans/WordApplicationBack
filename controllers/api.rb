@@ -3,8 +3,8 @@
 get '/learn' do #覚えるパート
   content_type :json, :charset => 'utf-8'
 
-  words = Word.where(category: (0..4).to_a.sample).sample(5)
-  # words = Word.all.sample(5)
+  user = User.find_by(uid: session[:uid])
+  words = user.words.where(category: (0..4).to_a.sample).sample(5)
   @data = Array.new
   words.each do  |word|
     @data << {
