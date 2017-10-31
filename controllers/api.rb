@@ -52,6 +52,23 @@ post '/remembered' do
   end
 end
 
+get '/tank-rate' do
+  content_type :json, :charset => 'utf-8'
+  user = User.find_by(uid: session[:uid])
+  a,b,c = 0,0,0
+  user.words.each do |w|
+    case w.category
+    when 0 then a+=1
+    when 1 then b+=1
+    when 2 then c+=1
+    end
+  end
+  {"動詞":   {base: Word.where(category: 0).count, learned: a},
+   "名詞":   {base: Word.where(category: 1).count, learned: b},
+   "接続詞": {base: Word.where(category: 2).count, learned: c},
+  }.to_json
+end
+
 private
 
 def make_exam(word)
