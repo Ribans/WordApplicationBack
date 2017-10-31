@@ -31,7 +31,7 @@ ActiveRecord::Schema.define(version: 20171030084720) do
   end
 
   create_table "words", force: :cascade do |t|
-    t.string "jpanese"
+    t.string "japanese"
     t.string "english"
     t.string "meaning"
     t.integer "category", default: 0, null: false
