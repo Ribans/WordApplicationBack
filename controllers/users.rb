@@ -1,9 +1,9 @@
 get '/sign_in' do
-  erb :"users/sign_in"
+  erb :"users/sign_in", :layout => :"layout/default"
 end
 
 get '/sign_up' do
-  erb : "users.sign_up"
+  erb :"users/sign_up", :layout => :"layout/default"
 end
 
 post '/sign_up' do
