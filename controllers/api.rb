@@ -52,6 +52,17 @@ post '/remembered' do
   end
 end
 
+post '/forgot' do
+  content_type :json, :charset => 'utf-8'
+  begin
+  wl = WordThatTheUserLearned.find_by(user_id: params["user_id"], word_id: ["word_id"])
+  wl.destroy
+  {status: 200}.to_json
+  rescue
+  {status: 500}.to_json
+  end
+end
+
 get '/tank-rate' do
   content_type :json, :charset => 'utf-8'
   user = User.find_by(uid: session[:uid])
