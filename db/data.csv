@@ -1,0 +1,2022 @@
+﻿ID,英語,カテゴリ,日本語
+1,follow,A,①～続く②～に従う
+2,consider,A,～を考慮する
+3,increase,A,増える、～を増やす
+4,expect,A,～を予期する
+5,decide,A,～することを決意する
+6,develop,A,①発達する②～を発達させる
+7,provide,A,～を供給する、与える
+8,continue,A,続く、～を続ける
+9,include,A,～を含む、含める
+10,remain,A,①～のままでいる
+11,reach,A,～に着く、～に達する
+12,allow,A,①～を許可する
+13,force,A,～を強制する
+14,offer,A,～を申し出る
+15,realize,A,①～を悟る
+16,require,A,～を必要とする
+17,suggest,A,①～と提案する②～ほのめかす
+18,worry,A,心配する
+19,wonder,A,(wh/if節）～かと疑問に思う
+20,cost,A,①を要する
+21,tend,A,(tend to)Vする傾向がある、Vしがちである
+22,depend,A,(depend on A)Aに依存する、Aしだいで決まる
+23,share,A,～を分け合う、共有する
+24,demand,A,①～を要求する
+25,support,A,①～を支持する②～を養う③～立証する
+26,hire,A,～を雇う
+27,regard,A,(regard A sa B）Aをだと思う、みなす
+28,base,A,(A be based on B)AがBに基づいている
+29,improve,A,～を向上させる
+30,recognize,A,①～を認める
+31,notice,A,～に気づく
+32,suppose,A,～だと思う
+33,raise,A,①～を上げる②～を育てる③～を提起する　＜名＞賃上げ
+34,prefer,A,～をより好む
+35,enter,A,①入る
+36,suffer,A,～を経験する、受ける、苦しむ
+37,describe,A,～を描写する、～の特徴を説明する
+38,prevent,A,～をさまたげる
+39,reduce,A,①～を減らす、②（reduce A to B）AをBにする
+40,mistake,A,～を誤解する、まちがえる
+41,prepare,A,～の準備する(for)
+42,encourage,A,（人を）はげます
+43,prove,A,①～だとわかる
+44,join,A,①～に参加する
+45,treat,A,～を扱う
+46,establish,A,～を確立する、設立する
+47,relate,A,①関係がある
+48,compare,A,①～を比較する②～をたとえる
+49,spread,A,～を広げる、広がる
+50,refer,A,(refer to A)Aを指示する
+51,supply,A,～を供給する
+52,gain,A,①～を得る
+53,destroy,A,～を破壊する
+54,apply,A,①当てはまる②申し込む
+55,seek,A,～を求める
+56,search,A,(search for A)Aを捜す
+57,claim,A,①～と主張する　②～を要求する
+58,draw,A,①～を引っ張る　②～を描く
+59,introduce,A,～を紹介する
+60,refuse,A,を断る
+61,mention,A,～について述べる
+62,judge,A,～を判断する
+63,approach,A,①～に接近する②に取り組む＜名＞方法
+64,admit,A,①を認める(that)
+65,reflect,A,①～を反映する、反射する②(reflect on A）Aについてよく考える
+66,perform,A,①～を行う、～を遂行する
+67,bore,A,をうんざりさせる
+68,survive,A,生き残る
+69,represent,A,①～を表す
+70,argue,A,～と主張する(that)
+71,grant,A,①～を認める　②～を与える
+72,indicate,A,～を指し示す
+73,belong,A,所属している
+74,acquire,A,を習得する
+75,reply,A,返事する
+76,feed,A,～にエサをやる、～を養う
+77,escape,A,逃げる
+78,replace,A,①～に取って代わる、～を取り替える
+79,reveal,A,～を明らかにする
+80,surround,A,～を取り囲む
+81,suit,A,～に合う
+82,estimate,A,～を推定する
+83,aim,A,Aを狙う
+84,earn,A,①もうける、かせぐ
+85,decline,A,①衰退する②～を辞退する
+86,afford,A,①～をする余裕がある
+87,confuse,A,①～を当惑させる
+88,graduate,A,Aを卒業する
+89,vary,A,変わる、ざまざまである
+90,remove,A,～を移す、取り去る
+91,insist,A,～と主張する、言い張る
+92,examine,A,～を調査する
+93,remind,A,(remind A of B)AにBのことを思い出させる
+94,contribute,A,①(to A)に貢献する、Aの一因となる　②(A to B）AをBに寄付する
+95,warn,A,～に警告する
+96,connect,A,～をつなぐ
+97,match,A,①～に匹敵する　②～に調和する
+98,focus,A,焦点を合わせる
+99,reject,A,～を断る
+100,convince,A,～を納得させる、確信させる
+101,associate,A,(associate A with B) ＡをＢに関連づける、ＡからＢを連想する
+102,rush,A,急いで行く
+103,stress,A,～を強調する
+104,attract,A,〈人・注意〉を引きつける
+105,rely,A,(rely on A)Ａに頼る
+106,respond,A,(respond to A) Ａに返答する
+107,threaten,A,～を脅迫する
+108,adopt,A,〈理論・技術など〉を採用する
+109,shake,A,～を振る
+110,hurt,A,～を傷つける
+111,operate,A,①〈機械などが〉作動する　②〈機械など〉を操作する　③手術する(+ on)
+112,extend,A,～を広げる、延長する
+113,blame,A,～を非難する、～のせいにする
+114,consist,A,(consist of A) Ａで構成されている
+115,persuade,A,～を説得する
+116,admire,A,～に感心する
+117,disappoint,A,～を失望させる
+118,expand,A,（～を）拡大する
+119,preserve,A,～を保護する、～を保つ
+120,struggle,A,苦闘する、もがく
+121,arrange,A,①〈会合など〉の手はずを整える　②～を配列する
+122,disturb,A,〈人・仕事など〉をさまたげる
+123,employ,A,①～を雇う　②〈方法・言葉など〉を用いる
+124,engage,A,(engage in A)Ａに従事する、Ａを行う
+125,abandon,A,～を捨てる
+126,display,A,～を展示する、～を表す
+127,encounter,A,～に偶然出会う
+128,exhaust,A,〈人〉を疲れはてさせる
+129,bother,A,①〈人〉に面倒をかける　②困らせる、（～を）気にする
+130,concentrate,A,集中する
+131,adapt,A,①～に適応させる　②適応する
+132,puzzle,A,～を当惑させる
+133,appeal,A,①Ａ〈理性・感情など〉に訴える　②〈人〉を引きつける、魅力
+134,combine,A,～を統合させる
+135,delay,A,～を遅らせる
+136,repair,A,～を修理する
+137,fascinate,A,〈人〉を夢中にさせる
+138,devote,A,～をささげる
+139,import,A,～を輸入する
+140,remark,A,（～と）述べる
+141,reserve,A,～を予約する、～を取っておく
+142,amaze,A,～を驚嘆させる
+143,frighten,A,〈人〉をおびえさせる
+144,release,A,～を解放する
+145,rent,A,〈家・車など〉を賃借りする
+146,recover,A,(recover from A)Ａ（病気など）から回復する
+147,suspect,A,① ～ではないかと思う　②〈人・もの〉を疑う
+148,deliver,A,①～を配達する、渡す　②〈講義など〉をする
+149,identify,A,①～の正体をつきとめる　②(identify with A)Ａと共感する
+150,locate,A,(be located in)（Ａに）位置する
+151,manufacture,A,～を製造する
+152,occupy,A,〈場所・地位など〉を占める
+153,own,A,～を所有している
+154,expose,A,(expose A to B)ＡをＢにさらす
+155,conclude,A,～と結論づける
+156,cure,A,～を治療する
+157,perceive,A,～を知覚する
+158,ban,A,（公式に）～を禁止する
+159,alarm,A,～をぎょっとさせる、おびえさせる
+160,derive,A,由来する
+161,neglect,A,①～を無視する、怠る　②〈子供など〉の世話をしない
+162,adjust,A,〈環境に〉慣れる、調節して合わせる
+163,shift,A,～を変える
+164,embarrass,A,～を困惑させる、～に恥ずかしい思いをさせる
+165,approve,A,～を承認する
+166,commit,A,〈罪など〉を犯す
+167,stretch,A,～を広げる
+168,participate,A,(participate in A)Ａに参加する
+169,impose,A,(impose A on B)ＡをＢに課す、押しつける
+170,owe,A,(A owe B to C)ＡはBのことでCのおかげだ【頻出形・これで覚えよう】
+171,celebrate,A,〈特定の日・できごと〉を祝う
+172,emerge,A,〈隠れていたものが〉現れる
+173,urge,A,～に強く迫る、～を説得する
+174,seat,A,①(be seated)座っている
+175,injure,A,～を傷つける
+176,imply,A,～を（暗に）意味する
+177,explain,A,～を説明する
+178,accept,A,～を受け入れる
+179,produce,A,～を生産する
+180,exist,A,存在する
+181,occur,A,起こる
+182,express,A,～を表現する
+183,add,A,～を加える
+184,avoid,A,～を避ける
+185,marry,A,～と結婚する
+186,protect,A,～を守る
+187,affect,A,～に影響する
+188,determine,A,～を決定する
+189,solve,A,～を解決する
+190,contain,A,～を含んでいる
+191,discuss,A,～を議論する
+192,ignore,A,～を無視する
+193,guess,A,～を推測する
+194,exchange,A,交換する
+195,satisfy,A,～を満たす
+196,complain,A,苦情を言う
+197,achieve,A,～を達成する
+198,enable,A,～を可能にする
+199,intend,A,つもりだ
+200,obtain,A,～を得る
+201,divide,A,(divide into)分割する
+202,distinguish,A,(distinguish from)見分ける
+203,differ,A,(differ from)異なる
+204,educate,A,～を教育する
+205,borrow,A,(borrow from)を借りる
+206,invent,A,～を発明する
+207,promote,A,～を促進する
+208,advise,A,(advise to)～に忠告する
+209,arise,A,(arise from)～が生じる
+210,permit,A,(permit to)～を許す
+211,recommend,A,(recommend to)～を勧める
+212,define,A,(define as)定義する
+213,inform,A,(inform of)～に知らせる
+214,oppose,A,～に反対する
+215,trust,A,～を信用する
+216,select,A,～を選ぶ
+217,praise,A,(praise for)～褒める
+218,handle,A,～に対処する
+219,propose,A,～を提案する
+220,breathe,A,～を呼吸する
+221,criticize,A,(criticize for)～を非難する
+222,overcome,A,～に打ち勝つ
+223,possess,A,～持っている
+224,predict,A,～を予言する
+225,publish,A,～を出版する
+226,purchase,A,～を買う
+227,recall,A,～を思い出す
+228,explore,A,～を探検する
+229,stare,A,(stare at)じっと見る
+230,absorb,A,～を吸収する
+231,resemble,A,～に似ている
+232,tear,A,～を引き裂く
+233,consume,A,～を消費する
+234,compete,A,(compete with for)～のために～と競争する
+235,quit,A,～をやめる
+236,announce,A,～を発表する
+237,react,A,(react to)反応する
+238,wander,A,歩き回る
+239,emphasize,A,～を強調する
+240,generate,A,～を生み出す
+241,result,B,結果
+242,experience,B,"経験,体験"
+243,society,B,社会
+244,trouble,B,"悩み,苦労"
+245,value,B,価値
+246,effect,B,"①効果,影響(=influence)②結果(=result)"
+247,individual,B,個人
+248,influence,B,影響
+249,context,B,①文脈 ②状況
+250,rate,B,割合速度 ~を評価する
+251,sign,B,"印,記号,兆候"
+252,service,B,①公共事業②業務
+253,advances,B,"前進,進歩"
+254,officer,B,役人
+255,material,B,物質
+256,industry,B,工業
+257,attempt,B,試み
+258,trade,B,貿易
+259,progress,B,"進歩,前進"
+260,excuse,B,言い訳
+261,custom,B,①(社会的な)習慣②(customs)税関
+262,passage,B,"①一節,引用された部分②(時の)経過③通行"
+263,economy,B,経済
+264,range,B,範囲
+265,traffic,B,交通
+266,official,B,役人
+267,Sight,B,①見ること ②光景 ③視力
+268,taste,B,①味｡味覚②好み
+269,immigrant,B,(外国からの)移民
+270,neighbor,B,近所の人
+271,patient,B,患者 忍耐強い
+272,project,B,計画
+273,favor,B,好意
+274,appear,B,"①外見,様子②出現"
+275,risk,B,危険
+276,benefit,B,利益
+277,feature,B,特徴
+278,relative,B,"親族,親せき 相対的な"
+279,region,B,地域
+280,characteristic,B,特徴
+281,pain,B,苦痛
+282,kid,B,子供 ~をからかう
+283,occasion,B,場合
+284,principle,B,"原理,原則"
+285,department,B,"①(組織の)部門,課 ②省 ③(大学などの)学科"
+286,duty,B,"①義務,任務②関税"
+287,scene,B,"場面,現場"
+288,basis,B,"①基礎,根拠 ②方式,やり方"
+289,spirit,B,精神
+290,medium,B,手段
+291,mass,B,①(the masses)一般大衆②(a mass of A)多くのA
+292,audience,B,"聴衆,観客"
+293,element,B,①要素(=fador)②元素
+294,climate,B,気候
+295,revolution,B,革命
+296,quarter,B,4分の1
+297,conflict,B,対立
+298,flood,B,洪水
+299,atmosphere,B,"①大気,空気②雰囲気"
+300,property,B,財産
+301,reward,B,(reward for)報酬、に報いる
+302,security,B,安全
+303,delight,B,大喜び
+304,desert,B,砂漠、を放棄する、を見捨てる
+305,background,B,➀背景、②生い立ち、経歴
+306,trend,B,傾向
+307,grade,B,➀（小中高通じての）学年、②成績
+308,impact,B,➀影響②衝突
+309,institution,B,➀機関、②制度
+310,interaction,B,交流
+311,alternative,B,(alternative to)代わりのもの
+312,harm,B,害
+313,agency,B,➀（政治的）機関、②代理店
+314,capacity,B,"(capacity toＶ,　for)能力"
+315,minister,B,大臣
+316,volunteer,B,ボランティア
+317,access,B,(access to)利用する権利
+318,quantity,B,(quantity)量
+319,branch,B,(branch of)➀枝、②支店、支局、③(学問の）部門、分野
+320,laughter,B,笑い
+321,transport,B,交通機関、輸送
+322,vote,B,投票
+323,resident,B,住民
+324,square,B,➀正方形、②（面積の単位）平方
+325,situation,B,(in situation)状況
+326,government,B,政府
+327,knowledge,B,知識
+328,nation,B,国
+329,effort,B,(make an effort to)努力、(努力する)
+330,period,B,時代
+331,population,B,人口
+332,purpose,B,(for purpose)目的
+333,behavior,B,行動
+334,lack,B,不足
+335,skill,B,技術
+336,quality,B,質
+337,environment,B,環境
+338,role,B,役割
+339,attitude,B,(attitude toward)態度
+340,author,B,筆者
+341,research,B,研究
+342,opportunity,B,(opportunity to)機会
+343,source,B,源
+344,disease,B,病
+345,shape,B,形
+346,advantage,B,(advantage of)利点
+347,method,B,方法
+348,habit,B,習慣
+349,detail,B,細部
+350,distance,B,距離
+351,crowd,B,群衆
+352,clothes,B,服
+353,instance,B,例
+354,desire,B,(desire to)願望
+355,standard,B,水準
+356,technology,B,科学技術
+357,generation,B,世代
+358,responsibility,B,(take responsibility for)責任、責任を取る
+359,task,B,仕事
+360,experiment,B,実験
+361,evidence,B,証拠
+362,decade,B,１０年
+363,loss,B,損失
+364,aspect,B,(aspect of)側面
+365,theory,B,理論
+366,statement,B,記述
+367,professor,B,教授
+368,function,B,機能
+369,surface,B,表面
+370,factor,B,(factor in)要因
+371,organization,B,組織
+372,policy,B,政策
+373,resource,B,資源
+374,contrast,B,対比
+375,brain,B,脳
+376,customer,B,客
+377,goods,B,商品
+378,creature,B,動物
+379,structure,B,構造
+380,tradition,B,伝統
+381,weight,B,体重
+382,labor,B,労働
+383,citizen,B,市民
+384,impression,B,(make impression on)印象、印象付ける
+385,species,B,種
+386,career,B,経歴
+387,concept,B,(concept of)概念
+388,passenger,B,乗客
+389,crime,B,犯罪
+390,income,B,所得
+391,temperature,B,気温
+392,majority,B,(the majority of)大多数
+393,origin,B,起源
+394,literature,B,文学
+395,equipment,B,設備
+396,stranger,B,見知らぬ人
+397,strength,B,強さ
+398,planet,B,惑星
+399,circumstances,B,(under circumstances)状況
+400,religion,B,宗教
+401,pollution,B,汚染
+402,wealth,B,富
+403,civilization,B,文明
+404,profit,B,もうけ
+405,technique,B,技術
+406,emotion,B,感情
+407,phenomenon,B,現象
+408,cancer,B,癌
+409,bottom,B,底
+410,billion,B,十億
+411,status,B,地位
+412,youth,B,若者
+413,confidence,B,(confidence in)自信
+414,edge,B,周辺
+415,household,B,家庭
+416,scholar,B,学者
+417,survey,B,調査
+418,vocabulary,B,語彙
+419,enemy,B,敵
+420,construction,B,(under construction)建設、（建設中の）
+421,lecture,B,(lecture on)講義
+422,instruction,B,指示
+423,crisis,B,危機
+424,instrument,B,器機
+425,crop,B,作物
+426,weapon,B,兵器
+427,device,B,装置
+428,path,B,(path to)道
+429,earthquake,B,地震
+430,stream,B,小川
+431,notion,B,概念
+432,substance,B,物質
+433,victim,B,犠牲者
+434,fuel,B,燃料
+435,ancestor,B,祖先
+436,soil,B,土壌
+437,debate,B,討論
+438,violence,B,暴力
+439,colleague,B,同僚
+440,philosophy,B,哲学
+441,analysis,B,(analysis of)分析
+442,universe,B,宇宙
+443,electricity,B,電気
+444,insect,B,昆虫
+445,disaster,B,(natural disaster)災害（自然災害）
+446,storm,B,嵐
+447,plenty,B,(plenty of)十分な
+448,agriculture,B,農業
+449,gene,B,遺伝子
+450,advertising,B,広告
+451,carbon,B,炭素
+452,infant,B,幼児
+453,evolution,B,進化
+454,cell,B,細胞
+455,aid,B,援助
+456,consequence,B,(have consequence)結果
+457,talent,B,才能
+458,common,C,➀共通の、②普通の
+459,public,C,公の、公共の
+460,likely,C,ありそうな、～する可能性が高い
+461,serious,C,深刻な
+462,particular,C,➀ある特定の、特有の
+463,available,C,手に入る、利用できる
+464,local,C,地方の、その土地の
+465,ready,C,➀用意ができた、②（be ready to V）進んでＶする
+466,correct,C,正しい
+467,familiar,C,➀よく知られた、②熟知している、詳しい
+468,physical,C,➀身体の、肉体の②物理的な
+469,worth,C,（be worth A）Ａの価値がある
+470,involved,C,(be invoｌved in A)Aに関係している、参加している
+471,equal,C,平等な
+472,private,C,個人の、私的な
+473,obvious,C,明白な
+474,native,C,母国の
+475,complex,C,複雑な
+476,willing,C,(be willing to V)進んで～する
+477,current,C,最新の
+478,male,C,男の、男性の
+479,proper,C,適切な
+480,capable,C,する能力がある
+481,independent,C,独立した
+482,positive,C,積極的な
+483,pleasant,C,楽しい
+484,significant,C,重要な
+485,former,C,前の
+486,chemical,C,化学的な
+487,upset,C,動揺している
+488,previous,C,前の
+489,global,C,世界的な
+490,specific,C,特定の
+491,conscious,C,意識している
+492,superior,C,(superior to)より優れている
+493,efficient,C,効率がいい
+494,fundamental,C,基本的な
+495,narrow,C,狭い
+496,reasonable,C,➀理にかなった、②手ごろな
+497,nervous,C,神経質な、不安な
+498,alike,C,似ている
+499,domestic,C,➀家庭の、②国内の
+500,negative,C,否定の
+501,moral,C,道徳的な
+502,eager,C,熱心な
+503,remarkable,C,素晴らしい
+504,evil,C,悪い
+505,awake,C,目を覚まして
+506,aged,C,年老いた
+507,anxious,C,➀心配して、②切望して
+508,thin,C,薄い
+509,nuclear,C,核の、原子力の
+510,legal,C,合法の、法律の
+511,curious,C,好奇心が強い
+512,calm,C,冷静な
+513,tough,C,➀たくましい、②骨の折れる
+514,civil,C,一般市民の
+515,actually,C,実は
+516,nearly,C,ほとんど
+517,therefore,C,それゆえに
+518,exactly,C,正確に
+519,possibly,C,➀ひょっとすると、②（cannot possibly V）どうしてもＶできない
+520,contrary,C,反対に
+521,occasionally,C,時々
+522,somehow,C,どういうわけか、なぜか
+523,seldom,C,めったに…ない
+524,thus,C,➀それゆえ、②そのように
+525,whereas,C,～だが一方
+526,besides,C,～に加えて
+527,general,C,一般の
+528,various,C,さまざまな
+529,similar,C,(similar to)似ている
+530,complete,C,完全な
+531,recent,C,最近の
+532,expensive,C,高価な
+533,political,C,政治的な
+534,aware,C,(be aware of A)Aに気づいている、意識している
+535,ancient,C,古代の
+536,medical,C,医学の
+537,essential,C,(essential to)不可欠な
+538,huge,C,巨大な
+539,terrible,C,ひどい
+540,practical,C,実用的な
+541,entire,C,全体の
+542,favorite,C,一番好きな
+543,comfortable,C,快適な
+544,active,C,積極的な
+545,typical,C,典型的な
+546,ideal,C,理想的な
+547,vast,C,広大な
+548,appropriate,C,適切な
+549,empty,C,空の
+550,rapid,C,急速な
+551,mental,C,精神の
+552,excellent,C,素晴らしい
+553,convenient,C,(convenient for)都合のよい
+554,potential,C,潜在的な
+555,financial,C,財政的な
+556,enormous,C,莫大な
+557,rare,C,珍しい
+558,complicated,C,複雑な
+559,tiny,C,ちっちゃな
+560,considerable,C,かなりの
+561,sensitive,C,(sensitive to)敏感な
+562,intellectual,C,知的な
+563,broad,C,広い
+564,polite,C,礼儀正しい
+565,accurate,C,正確な
+566,sharp,C,急激な
+567,rude,C,失礼な
+568,sufficient,C,十分な
+569,urban,C,都会の
+570,widespread,C,広まっている
+571,primitive,C,原始的な
+572,permanent,C,永久の
+573,elderly,C,高齢な
+574,severe,C,厳しい
+575,brief,C,簡潔な
+576,slight,C,少しの
+577,latest,C,最新の
+578,military,C,軍事的な
+579,strict,C,厳しい
+580,solid,C,固体の
+581,stupid,C,馬鹿な
+582,biological,C,生物の
+583,probably,C,おそらく
+584,hardly,C,ほとんど～ない
+585,immediately,C,すぐに
+586,eventually,C,ついに
+587,frequently,C,しばしば
+588,extremely,C,非常に
+589,gradually,C,だんだん
+590,merely,C,単に
+591,nevertheless,C,それにもかかわらず
+592,moreover,C,そのうえ
+593,relatively,C,比較的に
+594,apparently,C,一見
+595,absolutely,C,絶対に
+596,largely,C,主に
+597,mostly,C,大部分
+598,somewhat,C,多少
+599,not necessarily,C,必ずしも～ない
+600,despite,C,にもかかわらず
+601,proceed,A,進む
+602,ensure,A,～を確実にする
+603,interpret,A,～を解釈する
+604,cease,A,(cease to V)Vしなくなる
+605,spoil,A,～を台無しにする
+606,obey,A,～に従う
+607,eliminate,A,を除去する
+608,resist,A,～に抵抗する
+609,accompany,A,～に同伴する
+610,weigh,A,➀ ～の重さがある、②～を比較検討する、よく考える
+611,pursue,A,～を追求する
+612,demonstrate,A,～を明らかに示す、証明する
+613,amuse,A,～を楽しませる
+614,ruin,A,～を破滅させる、～を台無しにする、
+615,regret,A,～を後悔する
+616,attach,A,(attach A to B)AをBにくっつける
+617,reverse,A,逆転する、～を反対にする
+618,restrict,A,～を制限する
+619,compose,A,～を組み立てる
+620,capture,A,～を捕らえる
+621,substitute,A,～を代わりに用いる
+622,trace,A,～の跡をたどる
+623,interrupt,A,～を妨げる
+624,confront,A,➀の前に立ちふさがる②に立ち向かう
+625,illustrate,A,～を示す
+626,arrest,A,～を逮捕する
+627,stimulate,A,～を刺激する
+628,assure,A,～を保証する
+629,consult,A,➀に相談する、②を参照する
+630,depress,A,～を憂鬱にさせる
+631,crash,A,激突する
+632,inspire,A,➀を奮起させる、やる気にさせる
+633,specialize,A,(specialize in　A)Aを専門にする、専攻する
+634,cultivate,A,➀を育む②を耕作する
+635,fulfill,A,を果たす
+636,transmit,A,～を送る、伝える
+637,found,A,～を創立する、設立する
+638,cheer,A,～を励ます
+639,burst,A,➀破裂する、②突然～しだす
+640,bow,A,(bow to)お辞儀する
+641,dismiss,A,を無視する
+642,breed,A,～を繁殖させる、繁殖する
+643,prohibit,A,を禁じる
+644,oblige,A,に強いる
+645,qualify,A,(qualify for A)Aに適任である
+646,invest,A,を投資する
+647,grasp,A,～を理解する
+648,collapse,A,崩壊する
+649,overlook,A,～を見逃す、を見落とす
+650,accuse,A,～を非難する
+651,frustrate,A,を欲求不満にさせる
+652,deprive,A,(deprive A of B)AからBを奪う
+653,astonish,A,～を驚嘆させる
+654,register,A,～を登録する
+655,correspond,A,一致する
+656,cast,A,～を投げる、を向ける
+657,attribute,A,(be attribute A to B)AをBのせいにする
+658,freeze,A,凍りつく
+659,starve,A,飢える
+660,resolve,A,を解決する
+661,embrace,A,➀を受け入れる、②～を含む
+662,exhibit,A,～を展示する
+663,convert,A,(～を転換する
+664,scare,A,～をおびえさせる
+665,constitute,A,➀～を構成する、占める②～である
+666,appoint,A,(be appointed to)～を任命する、～に任命される
+667,sew,A,～を縫う
+668,assign,A,を割り当てる
+669,nod,A,うなずく
+670,elect,A,を選挙で選ぶ
+671,acknowledge,A,を認める
+672,rob,A,(rob A of B)AからBを奪う
+673,lean,A,寄りかかる、もたれる
+674,undertake,A,を引き受ける
+675,drown,A,溺れ死ぬ
+676,split,A,～を割る、分裂する
+677,resort,A,(resort to A)Aに訴える
+678,descend,A,くだる、降りる
+679,irritate,A,～をいらだたせる
+680,pronounce,A,を発音する
+681,equip,A,～を装備させる
+682,cheat,A,いかさまする、ごまかす
+683,decorate,A,～を装飾する
+684,pardon,A,～を許す
+685,heal,A,を治す、癒す、治る
+686,forgive,A,を許す
+687,envy,A,～をうらやむ
+688,chase,A,～を追いかける
+689,prompt,A,～を促す
+690,withdraw,A,➀～をひっこめる、②引きこもる、退く、③引き出す
+691,detect,A,～を探知する、を発見する
+692,interfere,A,(interfere with A)Aを邪魔する
+693,launch,A,➀打ち上げる、②～を始める
+694,endanger,A,～を危険にさらす
+695,foster,A,～を促成する、育成する
+696,diminish,A,減少する、衰える、～を減らす
+697,spill,A,～をこぼす
+698,infect,A,(infect with)に感染する
+699,stem,A,(stem from A)Aから生じる、Aに由来する
+700,tap,A,～を軽くたたく
+701,bet,A,きっと～だと思う
+702,declare,A,を宣言する
+703,alter,A,を変える
+704,retire,A,(retire from)辞める
+705,transform,A,(transform A into B)AをＢに変える
+706,defeat,A,を打ち負かす
+707,investigate,A,を調査する
+708,pretend,A,(pretend to)ふりをする
+709,annoy,A,をいらだたせる
+710,deserve,A,(deserve to be)～を受けるに値する、（当然である）
+711,bury,A,埋める
+712,cope,A,(cope with)うまく対処する
+713,pour,A,そそぐ
+714,score,A,を取る
+715,accomplish,A,をやり遂げる
+716,hesitate,A,(hesitate to V)〈Vすること〉をためらう
+717,endure,A,に耐える
+718,translate,A,(translate into)翻訳する
+719,guarantee,A,を保証する
+720,dominate,A,を支配する
+721,confirm,A,を裏づける
+722,greet,A,にあいさつする
+723,entertain,A,を楽しませる
+724,defend,A,(against)を守る
+725,forbid,A,(forbid A to V)AがⅤするのを禁じる
+726,broadcast,A,を放送する
+727,sacrifice,A,を犠牲にする
+728,punish,A,(punish A for B)AをBのことで罰する
+729,glance,A,(glance at)ちらりと見る
+730,retain,A,を保持する
+731,calculate,A,を計算する
+732,sink,A,沈む
+733,rescue,A,を救助する
+734,beg,A,(to)と乞う
+735,apologize,A,(apologize （to A） for B)(Aに)Ｂのことで謝る
+736,deceive,A,をだます
+737,convey,A,を伝える
+738,sustain,A,を維持する
+739,float,A,浮かぶ
+740,vanish,A,消える
+741,fade,A,(fade away)薄れる
+742,regulate,A,を規制する
+743,distribute,A,を分配する
+744,enhance,A,を向上させる
+745,chat,A,(chat with)おしゃべりする
+746,exceed,A,を超える
+747,wipe,A,を拭く
+748,cooperate,A,(cooperate with)協力する
+749,inherit,A,(from)を受け継ぐ
+750,restore,A,を修復する
+751,unite,A,を団結させる
+752,leap,A,跳ぶ
+753,exaggerate,A,を誇張する
+754,conquer,A,を征服する
+755,melt,A,溶ける
+756,invade,A,に侵入する
+757,modify,A,を修正する
+758,scatter,A,をばらまく
+759,undergo,A,を経験する
+760,evaluate,A,を評価する
+761,bend,A,身をかがめる
+762,assist,A,（in）手伝う
+763,scream,A,悲鳴をあげる
+764,gaze,A,（gaze at）見つめる
+765,rub,A,をこする
+766,polish,A,を磨く
+767,classify,A,(as)分類する
+768,assert,A,(that)と主張する
+769,grab,A,をつかむ
+770,fold,A,を折りたたむ
+771,sweep,A,を掃く
+772,whisper,A,ささやく
+773,imitate,A,をまねる
+774,proportion,B,比率
+775,contract,B,契約
+776,appointment,B,約束、予約
+777,treasure,B,財宝
+778,stock,B,株、株式
+779,facility,B,施設、設備
+780,sum,B,➀金額、②合計、③要約
+781,rank,B,地位
+782,democracy,B,民主国家、民主主義
+783,emergency,B,緊急事態
+784,protest,B,抗議
+785,track,B,小道、足跡
+786,vehicle,B,➀車、乗り物、②手段
+787,routine,B,日課、決まりきった仕事
+788,stuff,B,もの
+789,row,B,列
+790,wheel,B,➀車輪、②ハンドル
+791,dawn,B,夜明け
+792,welfare,B,福祉
+793,perspective,B,見方
+794,enthusiasm,B,熱意、情熱
+795,faith,B,信頼
+796,occupation,B,➀職業、②占領
+797,witness,B,証人、目撃者
+798,kingdom,B,王国
+799,equivalent,B,(of/to)相当するもの、同等のもの
+800,objective,B,目標、目的、客観的な
+801,pile,B,積み重ね
+802,shelter,B,(shelter from)避難所
+803,trial,B,➀試み、②裁判
+804,honor,B,名誉
+805,territory,B,領土、縄張り
+806,frame,B,わく
+807,border,B,国境
+808,statistics,B,統計、統計学
+809,enterprise,B,企業、事業
+810,fee,B,謝礼、料金
+811,load,B,荷物
+812,grain,B,穀物
+813,review,B,再検討
+814,prejudice,B,偏見
+815,strain,B,負担
+816,trap,B,わな、～をわなにかける
+817,temper,B,気性
+818,slave,B,奴隷
+819,wound,B,傷
+820,divorce,B,離婚
+821,tune,B,曲
+822,height,B,高さ、最盛期
+823,faculty,B,➀学部、②能力
+824,span,B,期間
+825,dimension,B,➀側面、要素②次元
+826,worship,B,崇拝
+827,version,B,➀型、版、②翻訳
+828,parallel,B,（to）類似、匹敵する
+829,horizon,B,地平線
+830,acquaintance,B,知人
+831,burden,B,重荷
+832,jam,B,渋滞
+833,poison,B,毒
+834,constitution,B,憲法
+835,administration,B,➀経営②行政
+836,charm,B,魅力
+837,organ,B,臓器、器官
+838,prey,B,獲物、えじき
+839,venture,B,(joint venture)冒険的事業、（共同事業）
+840,mission,B,使命、任務
+841,inquiry,B,調査
+842,award,B,賞
+843,strip,B,細長い一片
+844,distress,B,苦しみ、悲嘆、苦難
+845,circulation,B,➀循環、流通、②発行部数
+846,shade,B,陰、日陰
+847,stereotype,B,典型的なイメージ、類型、固定観念
+848,client,B,依頼人
+849,output,B,生産高
+850,lord,B,神
+851,convention,B,➀慣習、しきたり、②会議、大会
+852,mine,B,鉱山
+853,craft,B,➀工芸、技術、②船、乗り物
+854,core,B,中心、核心
+855,stroke,B,➀脳卒中、発作②打撃、一撃、をなでる
+856,frontier,B,国境
+857,peer,B,同僚、じっと見る
+858,vessel,B,➀船、②血管、③器
+859,disability,B,障害
+860,gravity,B,重力
+861,ethic,B,倫理
+862,terminal,B,終点
+863,tide,B,潮流、潮の干満
+864,abuse,B,虐待
+865,incident,B,出来事
+866,laboratory,B,研究所
+867,conference,B,会議
+868,continent,B,大陸
+869,insurance,B,保険
+870,site,B,用地
+871,poverty,B,貧乏
+872,shortage,B,不足
+873,affair,B,情勢
+874,exception,B,(to)例外
+875,wage,B,(low)賃金、（低賃金）
+876,wisdom,B,知恵
+877,tax,B,税金
+878,leisure,B,暇
+879,barrier,B,壁
+880,category,B,範ちゅう
+881,unit,B,単位
+882,reputation,B,評判
+883,virtue,B,美徳
+884,courage,B,勇気
+885,sympathy,B,（for)同情
+886,union,B,組合
+887,document,B,書類
+888,volume,B,冊
+889,ceremony,B,儀式
+890,era,B,時代
+891,dispute,B,紛争
+892,campaign,B,(to)運動
+893,mankind,B,人類
+894,murder,B,殺人
+895,landscape,B,風景画
+896,destination,B,目的地
+897,tale,B,(fairy tale)話、（おとぎ話）
+898,reform,B,改革
+899,muscle,B,筋肉
+900,prospect,B,見通し
+901,corporation,B,企業
+902,colony,B,植民地
+903,quarrel,B,（with)口論
+904,profession,B,職業
+905,fever,B,熱
+906,pause,B,休止
+907,furniture,B,家具
+908,privilege,B,特権
+909,prosperity,B,繁栄
+910,genius,B,天才
+911,seed,B,種
+912,symptom,B,症状
+913,merit,B,長所
+914,layer,B,層
+915,clue,B,(to)手がかり
+916,fiction,B,小説
+917,district,B,地区
+918,prison,B,刑務所
+919,companion,B,仲間
+920,executive,B,重役
+921,justice,B,正義
+922,procedure,B,手続き
+923,ray,B,光線
+924,heaven,B,天国
+925,luxury,B,贅沢
+926,oxygen,B,酸素
+927,fund,B,資金
+928,theme,B,主題
+929,boundary,B,境界
+930,ambition,B,(to)熱望
+931,forecast,B,予報
+932,psychology,B,心理学
+933,charity,B,慈善
+934,committee,B,委員会
+935,physician,B,医者
+936,shelf,B,棚
+937,affection,B,(for)愛情
+938,candidate,B,(for)候補
+939,bomb,B,爆弾
+940,priority,B,優先
+941,obstacle,B,(to)障害
+942,appetite,B,食欲
+943,tension,B,緊張
+944,tribe,B,部族
+945,budget,B,予算
+946,temple,B,神殿
+947,sorrow,B,悲しみ
+948,satallite,B,衛星
+949,insight,B,(into)洞察
+950,cough,B,せき
+951,fate,B,運命
+952,scheme,B,計画
+953,insult,B,侮辱
+954,inhabitant,B,(of)住民
+955,fossil,B,(fossil fuels)化石、（化石燃料）
+956,motive,B,動機
+957,instinct,B,本能
+958,legend,B,伝説
+959,empire,B,帝国
+960,suburb,B,郊外
+961,architecture,B,建築
+962,passion,B,情熱
+963,horror,B,恐怖
+964,logic,B,論理
+965,dozen,B,ダース
+966,harvest,B,収穫
+967,ingredient,B,材料
+968,hypothesis,B,(test hypothesis)仮説、（仮説を検証する）
+969,voyage,B,航海
+970,editor,B,編集長
+971,option,B,選択
+972,hemisphere,B,半球
+973,mechanism,B,仕組み
+974,anthropologist,B,人類学者
+975,crew,B,乗務員たち
+976,tragedy,B,悲劇
+977,refrigerator,B,冷蔵庫
+978,fare,B,運賃
+979,debt,B,借金
+980,curriculum,B,教育課程
+981,component,B,構成要素
+982,wheat,B,小麦
+983,usage,B,語法
+984,garbage,B,ゴミ
+985,famine,B,飢饉
+986,extinction,B,絶滅
+987,purse,B,財布
+988,folk,B,民族
+989,explosion,B,爆発
+990,portion,B,部分
+991,organism,B,生物
+992,merchant,B,商人
+993,myth,B,神話
+994,priest,B,神父
+995,funeral,B,葬式
+996,wildlife,B,野生生物
+997,Congress,B,議会
+998,bay,B,湾
+999,penalty,B,刑
+1000,heritage,B,遺産
+1001,diversity,B,多様性
+1002,thumb,B,親指
+1003,geography,B,地理
+1004,envelope,B,封筒
+1005,discrimination,B,(against)差別
+1006,virus,B,ウィルス
+1007,statue,B,像
+1008,athlete,B,運動選手
+1009,pioneer,B,先駆者
+1010,trait,B,特徴
+1011,bond,B,きずな
+1012,grocery,B,食料品
+1013,secretary,B,秘書
+1014,dialect,B,方言
+1015,astronomy,B,天文学
+1016,youngster,B,子ども
+1017,yard,B,庭
+1018,finding,B,発見
+1019,strategy,B,戦略
+1020,lung,B,肺
+1021,opponent,B,敵
+1022,ritual,B,儀式
+1023,outcome,B,結果
+1024,conservation,B,環境保護
+1025,mammal,B,哺乳類
+1026,telescope,B,望遠鏡
+1027,refugee,B,難民
+1028,code,B,規則
+1029,flavor,B,風味
+1030,particle,B,粒子
+1031,nursing,B,看護
+1032,suicide,B,自殺
+1033,habitat,B,生息地
+1034,bullying,B,いじめ
+1035,dinosaur,B,恐竜
+1036,council,B,議会
+1037,gender,B,性別
+1038,surgery,B,手術
+1039,innovation,B,革新
+1040,protein,B,タンパク質
+1041,nutrition,B,栄養
+1042,web,B,巣
+1043,emission,B,排出
+1044,ape,B,類人猿
+1045,molecule,B,分子
+1046,sweat,B,汗
+1047,transplant,B,移植
+1048,castle,B,城
+1049,cartoon,B,まんが
+1050,tip,B,先
+1051,cattle,B,牛
+1052,density,B,密度
+1053,guilty,C,有罪の、罪の意識がある
+1054,vital,C,➀きわめて需要な、必要な、②活気ある
+1055,rough,C,➀荒い、手荒い、②おおざっぱな
+1056,contemporary,C,現代の
+1057,annual,C,➀年に一度の、②一年間の
+1058,accustomed,C,慣れた
+1059,steady,C,しっかりした、着実な
+1060,dull,C,退屈させる
+1061,keen,C,鋭い
+1062,loose,C,緩い、ゆったりとした
+1063,delicate,C,➀繊細な、②微妙で難しい
+1064,internal,C,➀内部の、②国内の
+1065,casual,C,気楽な、形式ばらない
+1066,mature,C,成熟した
+1067,concrete,C,具体的な
+1068,awful,C,ひどい
+1069,senior,C,上級の、先輩の
+1070,overall,C,全体的な、全面的な
+1071,tight,C,引き締まった、（服などが）きつい
+1072,prime,C,最も重要な、主要な
+1073,genuine,C,本物の、真の、心からの
+1074,modest,C,➀控えめな、謙虚な、②質素な、③少しの、わずかな
+1075,intimate,C,親密な
+1076,minimum,C,最小限の
+1077,sophisticated,C,高度な
+1078,latter,C,後者の
+1079,bitter,C,➀苦い、つらい、②腹を立てた
+1080,peculiar,C,独特の、固有の、特有の
+1081,passive,C,受動的な、消極的な
+1082,ethnic,C,民族的な、民族の
+1083,noble,C,高貴な
+1084,vain,C,無駄な
+1085,innnocent,C,➀無罪の、②無邪気な
+1086,underlying,C,根本的な
+1087,alien,C,外国(人)の、異質な
+1088,relevant,C,(to)関連のある
+1089,inclined,C,(be inclined to V)➀Vする傾向がある、②Vしたい気がある
+1090,awkward,C,気まずい
+1091,brilliant,C,素晴らしい
+1092,desperate,C,必死の
+1093,refreshing,C,さわやかな
+1094,miserable,C,みじめな
+1095,substantial,C,➀たくさんの、多大な、②実質的な、重要な
+1096,consistent,C,(consistent with)矛盾のない、一致した
+1097,plain,C,➀明白な、②簡素な　名:平野
+1098,vivid,C,鮮やかな
+1099,thrilled,C,とてもうれしい
+1100,inner,C,内側の
+1101,fond,C,(fond of)～が好きだ
+1102,precisely,C,ちょうど、正確に、まさに
+1103,meanwhile,C,その間に
+1104,altogether,C,完全に
+1105,lately,C,最近
+1106,barely,C,かろうじて
+1107,scarcely,C,ほとんど～ない
+1108,accordingly,C,それ相応に
+1109,deliberately,C,わざと
+1110,beneath,C,～の下で
+1111,lonely,C,孤独な
+1112,precious,C,貴重な
+1113,minor,C,小さい
+1114,isolated,C,(from)孤立している
+1115,generous,C,気前のよい
+1116,tropical,C,熱帯の
+1117,reluctant,C,(be reluctant to V)Vしたがらない
+1118,vague,C,漠然とした
+1119,principal,C,主要な
+1120,numerous,C,たくさんの
+1121,rural,C,田舎の
+1122,temporary,C,一時的な
+1123,artificial,C,人工的な
+1124,visible,C,目に見える
+1125,raw,C,生の
+1126,remote,C,へんぴな
+1127,urgent,C,緊急の
+1128,silily,C,馬鹿な
+1129,striking,C,著しい
+1130,adequate,C,十分な
+1131,extraordinary,C,並外れた
+1132,odd,C,おかしな
+1133,abstract,C,抽象的な
+1134,mutual,C,相互の
+1135,excessive,C,過度の
+1136,ashamed,C,(be ashamed of A)Aを恥ずかしく思う
+1137,tremendous,C,とてつもない
+1138,inevitable,C,避けられない
+1139,pure,C,純粋な
+1140,stable,C,安定した
+1141,indifferent,C,(indifferent to)無関心な
+1142,aggressive,C,攻撃的な
+1143,ultimate,C,究極な
+1144,shy,C,内気な
+1145,solar,C,太陽の
+1146,profound,C,深い
+1147,subtle,C,微妙な
+1148,conservative,C,保守的な
+1149,brave,C,勇敢な
+1150,intense,C,強烈な
+1151,fantastic,C,素晴らしい
+1152,acid,C,酸性の
+1153,cruel,C,残酷な
+1154,rational,C,理性的な
+1155,initial,C,最初の
+1156,rigid,C,厳格な
+1157,linguistic,C,言語の
+1158,crucial,C,重大な
+1159,verbal,C,言葉による
+1160,optimistic,C,楽観的な
+1161,flexible,C,柔軟な
+1162,grateful,C,(be grateful (to A) for B)AにＢのことで感謝する
+1163,lively,C,生き生きとした
+1164,overwhelming,C,圧倒的な
+1165,abundant,C,豊富な
+1166,selfish,C,利己的な
+1167,ugly,C,醜い
+1168,racial,C,人種の
+1169,prominent,C,有名な
+1170,controversial,C,(controversial issue)物議を呼ぶ、（物議を呼ぶ問題）
+1171,federal,C,連邦の
+1172,ridiculous,C,ばかげた
+1173,imaginary,C,架空の
+1174,harsh,C,厳しい
+1175,random,C,無作為な
+1176,adolescent,C,思春期の
+1177,up-to-date,C,最新の
+1178,liberal,C,自由主義の
+1179,prior,C,(to)前の
+1180,moderate,C,適度の
+1181,fuluent,C,流ちょうな
+1182,elaborete,C,手の込んだ
+1183,incredible,C,信じられない
+1184,radical,C,根本的な
+1185,manual,C,手を使う
+1186,deaf,C,耳が聞こえない
+1187,medieval,C,中世の
+1188,ecological,C,生態的な
+1189,mobile,C,流動的な
+1190,ignorant,C,(ignorant of)知らない
+1191,immune,C,(immune system)免疫の、（免疫機構）
+1192,definitely,C,絶対に
+1193,virtually,C,ほとんど
+1194,approximately,C,およそ
+1195,instantly,C,即座に
+1196,literally,C,文字通り
+1197,seemingly,C,一見すると
+1198,regardless,C,関係なく
+1199,thoroughly,C,徹底的に
+1200,afterwards,C,その後
+1201,submit,A,➀(submit to A)Aに服従する、②を提出する
+1202,tempt,A,を誘惑する、～する気にさせる
+1203,resign,A,辞職する
+1204,conform,A,(conform to)従う
+1205,confine,A,～を限定するｌ、閉じ込める
+1206,assemble,A,を組み立てる
+1207,dedicate,A,(be dedicated tA to B)AをBにささげる
+1208,advocate,A,を主張する
+1209,thrive,A,繁栄する
+1210,provoke,A,を引き起こす
+1211,dictate,A,を命じる、要求する、決定する
+1212,exploit,A,を利用する、開発する
+1213,surrender,A,(surrender to)降伏する
+1214,reproduce,A,➀を再生する、複製する②繁殖する、を繁殖させる
+1215,transfer,A,を移す、（be transferred）転勤する
+1216,swell,A,ふくらむ
+1217,shed,A,を落とす
+1218,wind,A,曲がる
+1219,cite,A,を引き合いに出す
+1220,digest,A,を消化する
+1221,skip,A,を飛ばす、ぬかす
+1222,bind,A,を縛る，束縛する　
+1223,dissolve,A,➀溶解する、②解散する
+1224,implement,A,を実行する
+1225,steer,A,を操縦する
+1226,congratulate,A,祝福する
+1227,designate,A,～を指定する
+1228,violate,A,〈法律・約束など〉を破る，～に違反する
+1229,presume,A,を推定する、思う
+1230,recruit,A,〈新人など〉を入れる
+1231,coincide,A,同時に起きる、重なる
+1232,enforce,A,を施行する
+1233,displace,A,➀を故郷から追い出す、②にとって代わる
+1234,shrink,A,➀縮む、を縮ませる②減る
+1235,betray,A,➀裏切る②を漏らす
+1236,comprise,A,➀から構成する②を構成する、を占める
+1237,indulge,A,(indulge in)にふける
+1238,penetrate,A,入り込む
+1239,devastate,A,を壊滅させる
+1240,plunge,A,①(A plunge into Ｂ)ＡがＢに突っ込む②(plunge Ａ into Ｂ)ＡをＢに突っ込む
+1241,thrust,A,を強く押す
+1242,contradict,A,と矛盾する
+1243,prescribe,A,〈薬〉を処方する
+1244,oppress,A,～をしいたげる
+1245,cherish,A,〈思い出・希望など〉を胸に抱く　
+1246,illuminate,A,①～を照らす ②＜事実など＞を解明する
+1247,trigger,A,～のきっかけになる
+1248,commute,A,通勤[通学]する
+1249,induce,A,～を誘う
+1250,utilize,A,を利用する
+1251,snap,A,①ポキンと折れる：～をポキンと折る
+1252,donate,A,を提供する
+1253,hatch,A,〈卵・ヒナ〉をかえす；かえる
+1254,enclose,A,～を囲む
+1255,prevail,A,①普及している，広まる
+1256,sigh,A,ため息をつく
+1257,leak,A,漏れる、を漏らす
+1258,compel,A,に強制する
+1259,crush,A,を押しつぶす
+1260,comprehend,A,を理解する
+1261,negotiate,A,交渉する
+1262,persist,A,持続する，残る
+1263,multiply,A,➀を増やす、増える②（multiply A by B）ＡにＢをかける
+1264,conceive,A,想像する、考える
+1265,compensate,A,埋め合わせる
+1266,suspend,A,➀を中止する②をつるす
+1267,stir,A,をかきたてる
+1268,soak,A,を浸す、びしょぬれにする
+1269,refine,A,を洗練する、磨きをかける
+1270,arouse,A,を刺激する、かきたてる
+1271,precede,A,に先行する
+1272,render,A,ＡをＢにする、変える
+1273,mount,A,➀すえつける②に乗る
+1274,retreat,A,退く
+1275,startle,A,驚かせる
+1276,dare,A,(daｒｅ(tｏ)Ｖ)Ｖする勇気がある
+1277,anticipate,A,を予想する
+1278,crawl,A,はって進む
+1279,pray,A,祈る
+1280,dispose,A,(dispose of)を処理する
+1281,refrain,A,（from)控える
+1282,accumulate,A,を蓄積する
+1283,mend,A,を修理する
+1284,revise,A,を修正する
+1285,scratch,A,をかく
+1286,drag,A,を引きずる
+1287,roar,A,ほえる
+1288,quote,A,を引用する
+1289,bloom,A,咲く
+1290,distort,A,を歪曲する
+1291,await,A,を待つ
+1292,dread,A,を恐れる
+1293,conceal,A,(conceal from)を隠す
+1294,enrich,A,を豊かにする
+1295,cling,A,(cling to)固執する
+1296,surpass,A,にまさる
+1297,suppress,A,を抑える
+1298,portray,A,を描く
+1299,soar,A,急上昇する
+1300,drain,A,(drain from)を排出する
+1301,glow,A,ボーっと光る
+1302,migrate,A,移住する
+1303,exclaim,A,叫ぶ
+1304,exert,A,(exert influence)を及ぼす、（影響を及ぼす）
+1305,fetch,A,を取ってくる
+1306,accelerate,A,を促進する
+1307,dwell,A,住む
+1308,integrate,A,(into)をとけ込ませる
+1309,weep,A,泣く
+1310,reassure,A,を安心させる
+1311,condemn,A,非難する
+1312,restrain,A,を抑制する
+1313,resent,A,に腹を立てる
+1314,yell,A,大声で叫ぶ
+1315,assess,A,を評価する
+1316,carve,A,を彫る
+1317,halt,A,を止める
+1318,inspect,A,(for)を検査する
+1319,tackle,A,に取り込む
+1320,omit,A,を省く
+1321,frown,A,(frown on)まゆをひそめる
+1322,resume,A,を再開する
+1323,mold,A,を作る
+1324,accommodate,A,(can/to accommodate)を収容できる
+1325,erase,A,を消す
+1326,infer,A,(infer from)推量する
+1327,revive,A,を生き返らせる
+1328,humiliate,A,に恥をかかせる
+1329,rotate,A,回る
+1330,disrupt,A,をかき乱す
+1331,navigate,A,進路を決める
+1332,ache,A,痛む
+1333,discard,A,を捨てる
+1334,incorporate,A,(incorporate into)を取り入れる
+1335,overtake,A,を追い越す
+1336,supplement,A,を補う
+1337,manipulate,A,を操作する
+1338,nourish,A,を養う
+1339,squeeze,A,をしぼる
+1340,depict,A,(depict as)を描く
+1341,distract,A,(distract from)をそらす
+1342,disclose,A,を暴露する
+1343,enroll,A,(enroll in)入学する
+1344,nurture,A,を育てる
+1345,speculate,A,推測する
+1346,prolong,A,を伸ばす
+1347,execute,A,を処刑する
+1348,uncover,A,を明らかにする
+1349,tremble,A,ふるえる
+1350,seize,A,をつかむ
+1351,abolish,A,を廃止する
+1352,scold,A,(scold for)をしかる
+1353,attain,A,達成する
+1354,utter,A,を発する
+1355,flee,A,(flee from)逃げる
+1356,offennd,A,を怒らせる
+1357,confess,A,と告白する
+1358,postpone,A,(postpone ~ing)を延期する
+1359,drift,A,ただよう
+1360,weave,A,を織る
+1361,install,A,(install in)を備えつける
+1362,twist,A,をねじ曲げる
+1363,extract,A,(extract from)を取り出す
+1364,bump,A,(bump into)ぶつかる
+1365,despise,A,を軽蔑する
+1366,tolerate,A,を我慢する
+1367,boast,A,(boast of)自慢する
+1368,flourish,A,栄える
+1369,disregard,A,を無視する
+1370,tease,A,をからかう
+1371,reinforce,A,を強める
+1372,strive,A,(strive to)努力する
+1373,coordinate,A,を協調させる
+1374,yawn,A,あくびをする
+1375,hug,A,抱きしめる
+1376,combat,A,と戦う
+1377,boost,A,を活気づける
+1378,sphere,B,領域、範囲
+1379,sequence,B,➀連続、②順序、順番
+1380,deposit,B,➀預金、頭金②堆積物
+1381,poll,B,➀世論調査②投票
+1382,caution,B,用心
+1383,rage,B,激怒、怒り
+1384,formula,B,➀方法、秘けつ、解決策、②式、公式
+1385,plot,B,➀筋②陰謀、たくらみ
+1386,scope,B,範囲
+1387,norm,B,➀規範
+1388,disgust,B,嫌悪
+1389,canal,B,運河
+1390,curse,B,➀災いのもと②呪い
+1391,paradox,B,逆説
+1392,tissue,B,組織
+1393,breakdown,B,崩壊
+1394,initiative,B,➀主導権②自発性、独創性
+1395,fabric,B,➀織物、布②組織、構造
+1396,publicity,B,宣伝、広告
+1397,summit,B,➀頂上、頂点②首脳会議
+1398,flock,B,群れ
+1399,plague,B,疫病
+1400,haste,B,急ぐこと
+1401,nap,B,うたた寝
+1402,ally,B,同盟国
+1403,draft,B,下書き、草稿
+1404,spectacle,B,光景
+1405,premise,B,前提
+1406,asset,B,財産
+1407,lag,B,遅れ
+1408,therapy,B,療法、治療法
+1409,reception,B,もてなし
+1410,compound,B,化合物
+1411,blessing,B,ありがたいもの、恵み
+1412,sensation,B,➀感覚、感じ
+1413,recession,B,不景気、不況
+1414,pole,B,➀棒、②(天体の）極
+1415,outlook,B,➀考え方、態度②見込み、見通し
+1416,endeavor,B,活動
+1417,mercy,B,慈悲、情け
+1418,counterpart,B,（Ａ’ｓ～）Ａに相当するもの
+1419,session,B,➀期間②討論
+1420,pill,B,錠剤
+1421,junk,B,くず、がらくた
+1422,fatigue,B,疲労
+1423,fame,B,名声
+1424,mess,B,めちゃくちゃ
+1425,decay,B,腐敗
+1426,dignity,B,(with)尊厳死
+1427,compromise,B,(with)妥協
+1428,drought,B,干ばつ
+1429,despair,B,絶望
+1430,interval,B,(at)間隔
+1431,luggage,B,荷物
+1432,blossom,B,花
+1433,impulse,B,(to)衝動
+1434,hatred,B,憎しみ
+1435,beast,B,野獣
+1436,superstition,B,迷信
+1437,illusion,B,幻想
+1438,thread,B,糸
+1439,plow,B,すき
+1440,feast,B,宴会
+1441,transition,B,移り変わり
+1442,misery,B,悲惨さ
+1443,radiation,B,放射線
+1444,log,B,丸太
+1445,consensus,B,(on)合意
+1446,deed,B,行い
+1447,proverb,B,ことわざ
+1448,compliment,B,褒め言葉
+1449,flame,B,炎
+1450,anniversary,B,(celebrate wedding anniversary)記念日、記念日を祝う
+1451,conscience,B,良心
+1452,expedition,B,探検
+1453,offspring,B,子孫
+1454,allowance,B,こづかい
+1455,headline,B,大見出し
+1456,treaty,B,条約
+1457,monument,B,記念碑
+1458,worm,B,虫
+1459,remedy,B,治療法
+1460,encyclopedia,B,百科事典
+1461,glimpse,B,(catch a glimpse of Ａ)ちらり、（Aをちらりと目にする）
+1462,personnel,B,職員
+1463,triumph,B,勝利
+1464,arithmetic,B,算数
+1465,self-esteem,B,自尊心
+1466,fog,B,霧
+1467,odds,B,(of)可能性
+1468,chaos,B,混沌
+1469,destiny,B,運命
+1470,diameter,B,(in)直径
+1471,meadow,B,牧草地
+1472,souvenir,B,土産物
+1473,trail,B,小道
+1474,ratio,B,比率
+1475,sword,B,剣
+1476,realm,B,領域
+1477,sentiment,B,感情
+1478,chore,B,雑用
+1479,courtesy,B,礼儀正しい
+1480,mayor,B,市長
+1481,reign,B,統治
+1482,trash,B,ゴミ
+1483,prestige,B,名声
+1484,hierarchy,B,階級制度
+1485,wilderness,B,荒野
+1486,orbit,B,軌道
+1487,bias,B,偏見
+1488,Republic,B,共和国
+1489,bargain,B,掘り出しもの
+1490,contempt,B,(for)軽蔑
+1491,fragment,B,破片
+1492,galaxy,B,星雲
+1493,lap,B,膝
+1494,deadline,B,(for)締切
+1495,bullet,B,弾丸
+1496,pedestrian,B,歩行者
+1497,wit,B,機知
+1498,nuisance,B,迷惑
+1499,criteria,B,(meet criteria for)基準、（基準を満たす）
+1500,hardship,B,苦難
+1501,glory,B,(of)栄光
+1502,sin,B,罪
+1503,navy,B,海軍
+1504,script,B,台本
+1505,pension,B,年金
+1506,timber,B,材木
+1507,surplus,B,余剰
+1508,moisture,B,水分
+1509,peasant,B,小作農
+1510,garment,B,衣服
+1511,textile,B,織物
+1512,tuition,B,授業料
+1513,troop,B,軍隊
+1514,primate,B,霊長類
+1515,friction,B,(between)摩擦
+1516,nephew,B,おい
+1517,altitude,B,(at)高度
+1518,diagnosis,B,診断
+1519,commerce,B,商業
+1520,limb,B,手足
+1521,fraction,B,(of)ほんの一部
+1522,irony,B,皮肉
+1523,nightmare,B,悪夢
+1524,defect,B,(in)欠陥
+1525,witch,B,魔女
+1526,scent,B,香り
+1527,erosion,B,浸食
+1528,mllionaire,B,百万長者
+1529,skeleton,B,骨格
+1530,grace,B,優雅さ
+1531,landmark,B,名所
+1532,torture,B,拷問
+1533,flesh,B,肉
+1534,collision,B,(with)衝突
+1535,hazard,B,危険なもの
+1536,tomb,B,墓
+1537,brow,B,ひたい
+1538,sightseeing,B,観光
+1539,leather,B,革
+1540,jewelry,B,宝石
+1541,cue,B,合図
+1542,ambulance,B,救急車
+1543,real estate,B,不動産
+1544,commodity,B,商品
+1545,departure,B,出発
+1546,phase,B,段階
+1547,thief,B,泥棒
+1548,saint,B,聖
+1549,consent,B,同意
+1550,grief,B,悲しみ
+1551,lane,B,車線
+1552,bulk,B,(the bulk of)大部分
+1553,fluid,B,液
+1554,communist,B,共産主義
+1555,bride,B,花嫁
+1556,intervention,B,(in)介入
+1557,margin,B,差
+1558,biography,B,伝記
+1559,sculpture,B,彫刻
+1560,volcano,B,火山
+1561,rebel,B,反逆者
+1562,metaphor,B,比喩
+1563,legislation,B,法律
+1564,lightning,B,雷
+1565,pesticide,B,殺虫剤
+1566,column,B,コラム
+1567,rumor,B,うわさ
+1568,dust,B,ほこり
+1569,dialogue,B,対話
+1570,kindergarten,B,幼稚園
+1571,tourism,B,観光
+1572,obesity,B,肥満
+1573,patent,B,特許
+1574,chapter,B,章
+1575,palace,B,宮殿
+1576,laundry,B,洗濯
+1577,ward,B,病棟
+1578,epidemic,B,流行
+1579,equation,B,方程式
+1580,archaeologist,B,考古学者
+1581,corruption,B,腐敗
+1582,apt,C,(be apt to V)Vしがちである、Ｖする傾向がある
+1583,humble,C,➀謙虚な、②粗末な
+1584,entitled,C,➀（be entitled to A）Ａを得る権利がある②と題された
+1585,valid,C,➀妥当な、正当な②（切符・文書などが）有効な
+1586,faint,C,かすかな、気絶する
+1587,stiff,C,➀堅い、②堅苦しい
+1588,obscure,C,分かりにくい
+1589,fierce,C,激しい
+1590,acute,C,➀（問題が）深刻な②（感覚・痛みが）鋭い
+1591,idle,C,何もしていない
+1592,crude,C,➀粗末な、②粗野な
+1593,jealous,C,しっと深い、うらやましい
+1594,pregnant,C,妊娠している
+1595,liable,C,(be liable to)Ⅴしがちである、可能性が高い
+1596,intent,C,没頭した
+1597,decent,C,（世間から見て）まともな
+1598,marvelous,C,驚くべき
+1599,misleading,C,誤解をまねく
+1600,tame,C,飼いならされた、なれた
+1601,classical,C,（音楽が）クラッシクの
+1602,Muslim,C,イスラム教の
+1603,grave,C,重大な
+1604,fertile,C,肥えた
+1605,hostile,C,(to)敵意を持つ
+1606,indispensable,C,(to)不可欠な
+1607,alert,C,(to)用心する
+1608,trivial,C,ささいな
+1609,oriented,C,志向の
+1610,splendid,C,素晴らしい
+1611,competent,C,有能な
+1612,supreme,C,最高の
+1613,sheer,C,全くの
+1614,sacred,C,聖、聖なる
+1615,bold,C,大胆な
+1616,uneasy,C,不安な
+1617,neat,C,きちんとした
+1618,shallow,C,浅い
+1619,layal,C,(to)忠実な
+1620,superficial,C,表面的な
+1621,absurd,C,ばかげた
+1622,fragile,C,壊れやすい
+1623,respectable,C,ちゃんとした
+1624,magnificent,C,素晴らしい
+1625,infinite,C,無限の
+1626,comprehensive,C,包括的な
+1627,steep,C,険しい
+1628,gross,C,総、すべての
+1629,subsequent,C,次に起きる
+1630,sincere,C,誠実な
+1631,timid,C,おくびょうな
+1632,neutral,C,中立の
+1633,diligent,C,勤勉な
+1634,sore,C,痛い
+1635,contaminated,C,汚染された
+1636,ambiguous,C,どちらとも取れる
+1637,oral,C,口述の
+1638,reatless,C,落ち着かない
+1639,savage,C,野蛮な
+1640,vigorous,C,精力的な
+1641,immense,C,莫大な
+1642,metropolitan,C,大都市
+1643,punctual,C,時間をきっちり守る
+1644,solitary,C,孤独な
+1645,collective,C,集団の
+1646,diplomatic,C,外交の
+1647,brutal,C,残忍な
+1648,helpless,C,無力な
+1649,arrogant,C,ごう慢な
+1650,go bankrupt,C,破産した
+1651,eternal,C,永遠の
+1652,sole,C,唯一の
+1653,gloomy,C,暗い
+1654,notable,C,注目すべき
+1655,affluent,C,裕福な
+1656,naked,C,裸の
+1657,vocal,C,発声の
+1658,feminine,C,女性の
+1659,vacant,C,空いている
+1660,exotic,C,外来の
+1661,cognitive,C,認知の
+1662,humid,C,蒸し暑い
+1663,outstanding,C,傑出した
+1664,be addicted to A,C,Aの中毒である
+1665,vulnerable,C,(to)受けやすい
+1666,spontaneous,C,自然に起こる
+1667,greedy,C,どん欲だ
+1668,thirsty,C,のどが渇く
+1669,per capita,C,一人あたりの
+1670,inherent,C,(in)元から伴う
+1671,promising,C,前途有望な
+1672,physiological,C,生理的な
+1673,clinical,C,臨床の
+1674,chronic,C,慢性の
+1675,geological,C,地質的な
+1676,countless,C,無数の
+1677,simultaneously,C,同時に
+1678,utterly,C,全く
+1679,upright,C,まっすぐに
+1680,overnight,C,一晩
+1681,thereby,C,そうすることで
+1682,via,C,経由で
+1683,namely,C,すなわち
+1684,frankly,C,率直に
+1685,hence,C,だから
+1686,proclaim,A,と宣言する
+1687,smash,A,を粉々に砕く
+1688,mourn,A,を悲しむ
+1689,summom,A,を呼ぶ
+1690,shatter,A,を粉々にする
+1691,linger,A,残る
+1692,lament,A,を嘆く
+1693,be endowed with A,A,A（才能など）に恵まれている
+1694,rejoice,A,喜ぶ
+1695,whip,A,を鞭打つ
+1696,slap,A,をぴしゃりと打つ
+1697,contend,A,(that)と主張する
+1698,swear,A,と誓う
+1699,discern,A,を識別する
+1700,degrade,A,を悪化させる
+1701,erect,A,を築く
+1702,testify,A,証言する
+1703,spur,A,を駆り立てる
+1704,roam,A,を歩き回る
+1705,chew,A,かむ
+1706,lure,A,誘い込む
+1707,defy,A,に逆らう
+1708,stroll,A,ぶらつく
+1709,dispense,A,(with)なしで済ます
+1710,reconcile,A,を調和させる
+1711,blur,A,をぼやかす
+1712,soothe,A,をなだめる
+1713,impair,A,を低下させる
+1714,comply,A,(with)従う
+1715,pierce,A,に穴をあける
+1716,stumble,A,つまずく
+1717,hinder,A,を妨げる
+1718,mock,A,をあざける
+1719,embody,A,を具現する
+1720,insert,A,を差し込む
+1721,stalk,A,に忍び寄る
+1722,clarify,A,を明らかにする
+1723,applaud,A,拍手する
+1724,inflict,A,(on)を与える
+1725,merge,A,(with)合併する
+1726,reckon,A,と考える
+1727,undone,A,もとに戻る
+1728,poke,A,を突く
+1729,tumble,A,落ちる
+1730,adhere,A,(to)固く守る
+1731,compile,A,をまとめる
+1732,wither,A,しぼむ
+1733,stun,A,をびっくりさせる
+1734,choke,A,のどが詰まる
+1735,deteriorate,A,悪化する
+1736,evade,A,を逃れる
+1737,murmur,A,つぶやく
+1738,console,A,を慰める
+1739,duplicate,A,を複製する
+1740,divert,A,(from)をそらす
+1741,slaughter,A,を虐殺する
+1742,reap,A,を手に入れる
+1743,affirm,A,と断言する
+1744,knit,A,を編む
+1745,ponder,A,を熟考する
+1746,embark,A,(on)乗り出す
+1747,vow,A,を誓う
+1748,foresee,A,を予知する
+1749,adore,A,を崇拝する
+1750,yearn,A,(for)を切望する
+1751,undermine,A,を弱める
+1752,suck,A,を吸う
+1753,pledge,A,を誓う
+1754,intrude,A,(in)立ち入る
+1755,sue,A,を訴える
+1756,rot,A,腐敗する
+1757,extinguish,A,を消す
+1758,perplex,A,困惑させる
+1759,curb,A,を抑制する
+1760,withstand,A,に耐える
+1761,expel,A,(from)を追放する
+1762,recite,A,暗唱する
+1763,glitter,A,輝く
+1764,plead,A,(with)嘆願する
+1765,contemplate,A,を考える
+1766,discharge,A,を放出する
+1767,preach,A,説教する
+1768,rattle,A,をガタガタ鳴らす
+1769,retrieve,A,を検索する
+1770,shrug,A,をすくめる
+1771,evoke,A,を呼び起こす
+1772,haunt,A,つきまとわれる（つきまとう）
+1773,disguise,A,を隠す
+1774,flatter,A,にお世辞を言う
+1775,prose,B,散文
+1776,germ,B,細菌
+1777,thermometer,B,温度計
+1778,province,B,州
+1779,masterpiece,B,傑作
+1780,revenue,B,収入
+1781,riot,B,暴動
+1782,breakthrough,B,(in)飛躍的進歩
+1783,apparatus,B,装置
+1784,fuss,B,(make a fuss about)大騒ぎ、（大騒ぎする）
+1785,deficiency,B,欠乏
+1786,heir,B,(to)相続人
+1787,equator,B,(at)赤道
+1788,petroleum,B,石油
+1789,certificate,B,証明書
+1790,vapor,B,蒸気
+1791,probe,B,探査機
+1792,doctrine,B,教義
+1793,scorn,B,軽蔑
+1794,prophet,B,預言者、予言者
+1795,breeze,B,そよ風
+1796,pavement,B,歩道
+1797,ornament,B,飾り
+1798,spouse,B,配偶者
+1799,wrinkle,B,しわ
+1800,queue,B,列
+1801,stake,B,かけ金
+1802,ambassador,B,(to)大使
+1803,jury,B,陪審員
+1804,dismay,B,落胆、(to A's dismay)Ａがろうばい（落胆）したことに
+1805,lump,B,こぶ
+1806,lottery,B,宝くじ
+1807,outbreak,B,勃発
+1808,feat,B,偉業
+1809,temperament,B,気質
+1810,chill,B,寒気
+1811,deficit,B,赤字
+1812,predecessor,B,前任
+1813,entity,B,存在
+1814,hospitality,B,歓迎
+1815,mortality,B,死亡
+1816,narrative,B,話
+1817,segment,B,部分
+1818,catastrophe,B,大災害
+1819,monarch,B,君主
+1820,cradle,B,ゆりかご
+1821,coward,B,おくびょう者
+1822,cosmos,B,宇宙
+1823,aisle,B,通路
+1824,headquarters,B,本部
+1825,toll,B,通行料
+1826,transaction,B,取引
+1827,syndrome,B,症候群
+1828,burglar,B,強盗
+1829,tyranny,B,圧政
+1830,parasite,B,寄生生物
+1831,intuition,B,直感
+1832,incentive,B,(to)励み
+1833,legacy,B,遺産
+1834,retail,B,小売り
+1835,vein,B,静脈
+1836,discourse,B,(on)論説
+1837,diploma,B,卒業証書
+1838,propaganda,B,宣伝
+1839,outlet,B,はけ口
+1840,apprehension,B,不安
+1841,melancholy,B,憂うつ
+1842,novelty,B,目新しさ
+1843,specimen,B,標本
+1844,barbarian,B,野蛮人
+1845,tactics,B,戦術
+1846,monopoly,B,独占
+1847,token,B,印
+1848,aristocracy,B,貴族階級
+1849,revenge,B,"(take revenge on)復讐,（復讐する）"
+1850,persecution,B,迫害
+1851,rhetoric,B,美辞麗句
+1852,harassment,B,(sexual harassment)いやがらせ、セクハラ
+1853,census,B,国勢調査
+1854,verge,B,(on the verge of)瀬戸際
+1855,advent,B,(advent of)出現
+1856,analogy,B,類似点
+1857,irrigation,B,灌漑
+1858,coverage,B,報道
+1859,cuisine,B,料理
+1860,menace,B,脅威
+1861,peril,B,危険
+1862,antiquity,B,古代
+1863,assault,B,(on)攻撃
+1864,plight,B,苦境
+1865,autonomy,B,自主性
+1866,cram school,B,塾
+1867,subsidy,B,補助金
+1868,indignation,B,怒り
+1869,slang,B,俗語
+1870,posture,B,姿勢
+1871,ideology,B,イデオロギー
+1872,supervisor,B,監督者
+1873,tumor,B,腫瘍
+1874,intersection,B,交差点
+1875,excursion,B,遠足
+1876,deforestation,B,森林破壊
+1877,precaution,B,用心
+1878,orchard,B,果樹園
+1879,shortcoming,B,欠点
+1880,aspiration,B,熱望
+1881,psychiatrist,B,精神科医
+1882,shipping,B,発送
+1883,senator,B,上院議員
+1884,statesman,B,政治家
+1885,subordinate,B,部下
+1886,vacuum,B,空白
+1887,quest for,B,探究
+1888,meditation,B,瞑想
+1889,subscriber,B,加入者
+1890,riddle,B,謎
+1891,rag,B,ぼろ
+1892,rust,B,さび
+1893,sanitation,B,衛生
+1894,midst,B,(in the midst of)まっただ中(に）
+1895,mischief,B,いたずら
+1896,weed,B,雑草
+1897,recollection,B,記憶
+1898,latitude,B,緯度、緯
+1899,flaw,B,(in)欠陥
+1900,botanist,B,植物学者
+1901,heredity,B,遺伝
+1902,domain,B,領域
+1903,censorship,B,検閲制度
+1904,dose of,B,量
+1905,integrity,B,誠実
+1906,freight,B,貨物
+1907,bribe,B,"(take a bribe)賄賂,(わいろを受け取る)"
+1908,eruption,B,噴火
+1909,cloning,B,クローニング
+1910,appliance,B,器具
+1911,predator,B,捕食動物
+1912,recipe,B,秘訣
+1913,ash,B,灰
+1914,whistle,B,笛
+1915,plantation,B,農園
+1916,intake,B,摂取量
+1917,vend,B,"(vending machine)販売,（自動販売機）"
+1918,beverage,B,飲み物
+1919,orphan,B,孤児
+1920,neuron,B,ニューロン
+1921,vegetation,B,植生
+1922,warrior,B,戦士
+1923,mutation,B,突然変異
+1924,sewage,B,下水
+1925,metabolism,B,新陳代謝
+1926,paradigm,B,理論的枠組
+1927,protocol,B,議定書
+1928,skyscraper,B,超高層ビル
+1929,accord,B,(in accord with A)一致、Ａと一致して
+1930,bureaucrat,B,官僚
+1931,stubborn,C,頑固な
+1932,renowned,C,有名な
+1933,transparent,C,透き通った
+1934,dim,C,薄暗い
+1935,grim,C,厳しい
+1936,legitimate,C,正当な
+1937,weary,C,疲れている
+1938,swift,C,素早い
+1939,naive,C,世間知らずな
+1940,dumb,C,馬鹿な
+1941,sour,C,酸っぱい
+1942,furious,C,(with)激怒した
+1943,earnest,C,真面目な
+1944,terrific,C,素晴らしい
+1945,vertical,C,垂直な
+1946,wicked,C,邪悪な
+1947,subjective,C,主観的な
+1948,enlightened,C,進んだ考えの
+1949,feudal,C,封建的な
+1950,nasty,C,不快な
+1951,dizzy,C,めまいがする
+1952,straightforward,C,分かりやすい
+1953,solemn,C,荘厳な
+1954,damp,C,湿った
+1955,static,C,静的な
+1956,be doomed to A,C,Aする運命にある
+1957,stern,C,厳格な
+1958,innumerable,C,無数の
+1959,clumsy,C,不器用な
+1960,aesthetic,C,美的な
+1961,obsessed,C,(with)とりつかれる
+1962,detached,C,(from)切り離された
+1963,innate,C,先天的な
+1964,wrecked,C,難破した
+1965,reckless,C,無謀な
+1966,explicit,C,露骨な
+1967,preoccupied,C,(with)頭がいっぱいだ
+1968,gigantic,C,巨大な
+1969,conspicuous,C,顕著な
+1970,slender,C,すらりとした、細長い
+1971,manifest,C,明らかな
+1972,tidy,C,きちんとした
+1973,naughty,C,いたずらな
+1974,skeptical,C,懐疑的な
+1975,notorious,C,悪名高い
+1976,anonymous,C,匿名の
+1977,monotonous,C,単調な
+1978,ample,C,豊富な
+1979,trim,C,こぎれいな
+1980,toxic,C,有毒な
+1981,afflicted,C,苦しんでいる
+1982,eloquent,C,雄弁な
+1983,foul,C,不快な
+1984,juvenile,C,青少年の
+1985,compulsory,C,義務の
+1986,be prone to V,C,"～しやすい,Ｖする傾向がある"
+1987,arbitrary,C,勝手な
+1988,ingenious,C,独創的な
+1989,divine,C,神聖なる
+1990,tender,C,優しい
+1991,outraged,C,憤慨している
+1992,eccentric,C,風変わりな
+1993,paralyzed,C,麻痺している
+1994,compatible,C,(with)適合する
+1995,patriotic,C,愛国的な
+1996,eminent,C,名高い
+1997,fake,C,偽物の
+1998,insane,C,気がくるっている
+1999,bewildered,C,(by)当惑する
+2000,vulgar,C,下品な
+2001,secondhand,C,間接的な
+2002,indigenous,C,先住している
+2003,utmost,C,最も
+2004,stray,C,宿無しの
+2005,intricate,C,複雑な
+2006,daring,C,大胆な
+2007,mighty,C,強力な
+2008,barren,C,不毛な
+2009,ultraviolet,C,紫外の、紫外線の
+2010,intriguing,C,興味深い
+2011,merry,C,陽気な
+2012,synthetic,C,合成の
+2013,perpetual,C,永続する
+2014,integral,C,(part of)不可欠な
+2015,hybrid,C,ハイブリットの
+2016,spinal,C,脊椎の
+2017,drastically,C,劇的に
+2018,abruptly,C,ふいに
+2019,conversely,C,逆に
+2020,predominantly,C,主に
+2021,lest,C,～しないように
