@@ -1,4 +1,4 @@
-require 'pry'
+require 'pry' if development?
 require 'csv'
 ["data"].each do |file|
   tables = CSV.read("db/#{file}.csv", headers: true)
