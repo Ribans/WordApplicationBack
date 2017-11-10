@@ -1,10 +1,12 @@
 # -*- encoding: utf-8 -*-
 
-get '/learn' do #覚えるパート
+get '/learn' do #覚えるパート(暗記)
   content_type :json, :charset => 'utf-8'
+  response.headers['Access-Control-Allow-Origin'] = '*'
 
-  user = User.find_by(uid: session[:uid])
-  words = user.words.where(category: (0..4).to_a.sample).sample(5)
+  # user = User.find_by(uid: session[:uid])
+  # words = user.words.where(category: (0..4).to_a.sample).sample(5)
+  words = Word.all.sample(5)
   @data = Array.new
   words.each do  |word|
     @data << {
@@ -17,9 +19,12 @@ get '/learn' do #覚えるパート
   @data.to_json
 end
 
-get '/challenge' do  #チャレンジパート
+get '/challenge' do  #チャレンジパート(実力)
   content_type :json, :charset => 'utf-8'
-  word = Word.all.sample
+  response.headers['Access-Control-Allow-Origin'] = '*'
+
+  user = User.find_by(uid: session[:uid])
+  word = user.words.where(category: (0..4).to_a.sample).sample
   exam = make_exam(word)
   exam[:dummies] += make_dummmy(word, :random)
   exam.to_json
@@ -28,6 +33,8 @@ end
 
 get  '/training' do #トレーニング
   content_type :json, :charset => 'utf-8'
+  response.headers['Access-Control-Allow-Origin'] = '*'
+
   if user = User.find_by(uid: session[:uid])
     if user.words.count >= 4
       word = user.words.sample
@@ -44,6 +51,8 @@ end
 
 post '/remembered' do
   content_type :json, :charset => 'utf-8'
+  response.headers['Access-Control-Allow-Origin'] = '*'
+
   begin
   WordThatTheUserLearned.find_or_create_by(user_id: params["user_id"], word_id: ["word_id"])
   {status: 200}.to_json
@@ -54,6 +63,8 @@ end
 
 post '/forgot' do
   content_type :json, :charset => 'utf-8'
+  response.headers['Access-Control-Allow-Origin'] = '*'
+
   begin
   wl = WordThatTheUserLearned.find_by(user_id: params["user_id"], word_id: ["word_id"])
   wl.destroy
@@ -65,7 +76,10 @@ end
 
 get '/tank-rate' do
   content_type :json, :charset => 'utf-8'
+  response.headers['Access-Control-Allow-Origin'] = '*'
+
   user = User.find_by(uid: session[:uid])
+  binding.pry
   a,b,c = 0,0,0
   user.words.each do |w|
     case w.category
