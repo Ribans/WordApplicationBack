@@ -23,7 +23,8 @@ $ docker-compose up
 
 `$URL/learn `
 
-叩くと、id,english,japaneseを頂ける
+叩くと、id,english,japaneseが返却される
+（jsonの値は完全ランダム)
 
 例:
 
