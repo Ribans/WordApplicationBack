@@ -24,10 +24,14 @@ get '/challenge' do  #チャレンジパート(実力)
   response.headers['Access-Control-Allow-Origin'] = '*'
 
   user = User.find_by(uid: session[:uid])
-  word = user.words.where(category: (0..4).to_a.sample).sample
-  exam = make_exam(word)
-  exam[:dummies] += make_dummmy(word, :random)
-  exam.to_json
+  if user 
+    word = user.words.sample
+    exam = make_exam(word)
+    exam[:dummies] += make_dummmy(word, :random)
+    exam.shuffle.to_json
+  else
+    {status: 401, message: "ログインしてください"}.to_json
+  end
 end
 
 
@@ -38,14 +42,14 @@ get  '/training' do #トレーニング
   if user = User.find_by(uid: session[:uid])
     if user.words.count >= 4
       word = user.words.sample
-      exam = make_exam(word).to_json
+      exam = make_exam(word)
       exam[:dummies] += make_dummmy(word, :user)
       exam.to_json
     else
-      {status: 401, message: "もっと勉強しましょう"}
+      {status: 403, message: "もっと勉強しましょう"}.to_json
     end
   else
-    {status: 401, message: "ログインしてください"}
+    {status: 401, message: "ログインしてください"}.to_json
   end
 end
 
@@ -79,26 +83,29 @@ get '/tank-rate' do
   response.headers['Access-Control-Allow-Origin'] = '*'
 
   user = User.find_by(uid: session[:uid])
-  binding.pry
-  a,b,c = 0,0,0
-  user.words.each do |w|
-    case w.category
-    when 0 then a+=1
-    when 1 then b+=1
-    when 2 then c+=1
+  if user
+    a,b,c = 0,0,0
+    user.words.each do |w|
+      case w.category
+      when 0 then a+=1
+      when 1 then b+=1
+      when 2 then c+=1
+      end
     end
+    {"動詞":   {base: Word.where(category: 0).count, learned: a},
+     "名詞":   {base: Word.where(category: 1).count, learned: b},
+     "接続詞": {base: Word.where(category: 2).count, learned: c},
+    }.to_json
+  else
+    {status: 401, message: "ログインしてください"}.to_json
   end
-  {"動詞":   {base: Word.where(category: 0).count, learned: a},
-   "名詞":   {base: Word.where(category: 1).count, learned: b},
-   "接続詞": {base: Word.where(category: 2).count, learned: c},
-  }.to_json
 end
 
 private
 
 def make_exam(word)
   if word
-    dummies = [{ japanese: word.japanese, english: word.english }]
+    dummies = [{ id: word.id, japanese: word.japanese, english: word.english }]
     @data = {
       id: word.id,
       japanese: word.japanese,
@@ -116,9 +123,9 @@ def make_dummmy(word, method)
   if method == :random
     words = Word.where( category: word.category ).sample(3)
   else
-    words = User.find_by(session: session[:uid]).words.where( category: word.category  ).sample(3)
+    words = User.find_by(uid: session[:uid]).words.where( category: word.category  ).sample(3)
   end
-  words.each { |w| ary << {japanese: w.japanese, english: w.english} }
+  words.each { |w| ary << {id: w.id, japanese: w.japanese, english: w.english} }
   return ary
 end
 
