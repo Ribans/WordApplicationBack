@@ -67,6 +67,7 @@ id: 1803,
 ~~~json
 {
     id: 1,
+    status: 200,
     japanese: "①～続く②～に従う",
     english: "follow",
     dummies: [
@@ -103,6 +104,7 @@ id: 1803,
 ~~~json
 {
     id: 160,
+    status: 200,
     japanese: "由来する",
     english: "derive",
     dummies: [
@@ -137,15 +139,15 @@ id: 1803,
 
 ~~~json
 {
-    動詞: {
+    verb: {
     base: 679,
        learned: 16
     },
-    名詞: {
+    noun: {
         base: 856,
         learned: 16
     },
-    接続詞: {
+    conjunction: {
         base: 486,
         learned: 4
     }
