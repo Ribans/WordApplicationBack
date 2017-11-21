@@ -92,9 +92,11 @@ get '/tank-rate' do
       when 2 then c+=1
       end
     end
-    {"動詞":   {base: Word.where(category: 0).count, learned: a},
-     "名詞":   {base: Word.where(category: 1).count, learned: b},
-     "接続詞": {base: Word.where(category: 2).count, learned: c},
+    {
+      status:      200,
+      verb:        {base: Word.where(category: 0).count, learned: a},
+      noun:        {base: Word.where(category: 1).count, learned: b},
+      conjunction: {base: Word.where(category: 2).count, learned: c},
     }.to_json
   else
     {status: 401, message: "ログインしてください"}.to_json
@@ -108,6 +110,7 @@ def make_exam(word)
     dummies = [{ id: word.id, japanese: word.japanese, english: word.english }]
     @data = {
       id: word.id,
+      status: 200,
       japanese: word.japanese,
       english: word.english,
       dummies: dummies
