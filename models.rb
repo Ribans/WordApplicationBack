@@ -28,9 +28,15 @@ end
 class User < ActiveRecord::Base
   has_many :word_that_the_user_learneds
   has_many :words, :through => :word_that_the_user_learneds
+
+  validates :name, presence: true
+  validates :password_digest, presence: true
+  has_secure_password
 end
 
 class WordThatTheUserLearned < ActiveRecord::Base
+  validates :user_id, presence: true
+  validates :word_id, presence: true
   belongs_to :user
   belongs_to :word
 end

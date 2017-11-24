@@ -8,6 +8,7 @@ gem "rake"
 gem "sinatra"
 gem "sinatra-contrib"
 gem "sinatra-activerecord"
+gem "bcrypt"
 
 #database
 gem 'pg', '~> 0.18'

@@ -56,12 +56,12 @@ end
 post '/remembered' do
   content_type :json, :charset => 'utf-8'
   response.headers['Access-Control-Allow-Origin'] = '*'
-
-  begin
-  WordThatTheUserLearned.find_or_create_by(user_id: params["user_id"], word_id: ["word_id"])
-  {status: 200}.to_json
-  rescue
-  {status: 500}.to_json
+  params = JSON.parse request.body.read
+  data = WordThatTheUserLearned.new(user_id: params["user_id"], word_id: params["word_id"])
+  if data.save
+    {status: 200}.to_json
+  else
+    {status: 500, message: data.errors.full_messages.first}.to_json
   end
 end
 
