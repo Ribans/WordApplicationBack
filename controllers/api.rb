@@ -78,11 +78,13 @@ post '/forgot' do
   end
 end
 
-get '/tank-rate' do
+post '/tank-rate' do
   content_type :json, :charset => 'utf-8'
   response.headers['Access-Control-Allow-Origin'] = '*'
 
-  user = User.find_by(uid: session[:uid])
+  params = JSON.parse(request.body.read)
+  user = User.find_by(uid: params["uid"])
+
   if user
     a,b,c = 0,0,0
     user.words.each do |w|
