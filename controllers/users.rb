@@ -16,8 +16,8 @@ post '/sign_in' do
       }
     }.to_json
   else
-    status 403
-    {message: "Login to Failure"}.to_json
+    status 400
+    {message: "パスワードまたはユーザー名に誤りがあります"}.to_json
   end
 end
 
@@ -40,7 +40,7 @@ post '/sign_up' do
       }
     }.to_json
   else
-    status 403
-    {message: "SignUp to Failure"}.to_json
+    status 500
+    {message: user.errors.full_messages }.to_json
   end
 end

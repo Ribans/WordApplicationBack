@@ -3,9 +3,6 @@
 get '/learn' do #覚えるパート(暗記)
   content_type :json, :charset => 'utf-8'
   response.headers['Access-Control-Allow-Origin'] = '*'
-
-  # user = User.find_by(uid: session[:uid])
-  # words = user.words.where(category: (0..4).to_a.sample).sample(5)
   words = Word.all.sample(5)
   @data = Array.new
   words.each do  |word|
@@ -19,15 +16,27 @@ get '/learn' do #覚えるパート(暗記)
   @data.to_json
 end
 
-get '/challenge' do  #チャレンジパート(実力)
+post '/create-dummies' do
   content_type :json, :charset => 'utf-8'
   response.headers['Access-Control-Allow-Origin'] = '*'
+  params = JSON.parse request.body.read
+  word = Word.find_by(id: params["word_id"])
+  # user = User.find_by(id: params["user_id"])
+  exam = make_exam(word)
+  exam[:dummies] = (exam[:dummies] += make_dummmy(word, nil, :random)).shuffle
+  exam.to_json
+end
 
-  user = User.find_by(uid: session[:uid])
+post '/challenge' do  #チャレンジパート(実力)
+  content_type :json, :charset => 'utf-8'
+  response.headers['Access-Control-Allow-Origin'] = '*'
+  params = JSON.parse request.body.read
+
+  user = User.find_by(uid: params["uid"])
   if user 
     word = user.words.sample
     exam = make_exam(word)
-    exam[:dummies] += make_dummmy(word, :random)
+    exam[:dummies] = (exam[:dummies] += make_dummmy(word, user, :user)).shuffle
     exam.shuffle.to_json
   else
     {status: 401, message: "ログインしてください"}.to_json
@@ -35,21 +44,24 @@ get '/challenge' do  #チャレンジパート(実力)
 end
 
 
-get  '/training' do #トレーニング
+post  '/training' do #トレーニング
   content_type :json, :charset => 'utf-8'
   response.headers['Access-Control-Allow-Origin'] = '*'
+  params = JSON.parse request.body.read
 
-  if user = User.find_by(uid: session[:uid])
+  if user = User.find_by(uid: params["uid"])
     if user.words.count >= 4
       word = user.words.sample
       exam = make_exam(word)
-      exam[:dummies] += make_dummmy(word, :user)
+      exam[:dummies] = (exam[:dummies] += make_dummmy(word, user, :user)).shuffle
       exam.to_json
     else
-      {status: 403, message: "もっと勉強しましょう"}.to_json
+      status 403
+      {message: "もっと勉強しましょう"}.to_json
     end
   else
-    {status: 401, message: "ログインしてください"}.to_json
+    status 401
+    {message: "ログインしてください"}.to_json
   end
 end
 
@@ -57,11 +69,12 @@ post '/remembered' do
   content_type :json, :charset => 'utf-8'
   response.headers['Access-Control-Allow-Origin'] = '*'
   params = JSON.parse request.body.read
-  data = WordThatTheUserLearned.new(user_id: params["user_id"], word_id: params["word_id"])
+  data = WordThatTheUserLearned.new(user: User.find_by(uid: params["uid"]), word_id: params["word_id"])
   if data.save
-    {status: 200}.to_json
+    status 200
   else
-    {status: 500, message: data.errors.full_messages.first}.to_json
+    status 500
+    {message: data.errors.full_messages.first}.to_json
   end
 end
 
@@ -69,12 +82,18 @@ post '/forgot' do
   content_type :json, :charset => 'utf-8'
   response.headers['Access-Control-Allow-Origin'] = '*'
 
+  params = JSON.parse(request.body.read)
+
   begin
-  wl = WordThatTheUserLearned.find_by(user_id: params["user_id"], word_id: ["word_id"])
-  wl.destroy
-  {status: 200}.to_json
+  wl = WordThatTheUserLearned.find_by(
+    user_id: User.find_by(uid: params["uid"]).id,
+    word_id: params["word_id"]
+  )
+  p wl
+  wl.delete
+  status 200
   rescue
-  {status: 500}.to_json
+    status 500
   end
 end
 
@@ -101,7 +120,8 @@ post '/tank-rate' do
       conjunction: {base: Word.where(category: 2).count, learned: c},
     }.to_json
   else
-    {status: 401, message: "ログインしてください"}.to_json
+    status 401
+    { message: "ログインしてください"}.to_json
   end
 end
 
@@ -112,7 +132,6 @@ def make_exam(word)
     dummies = [{ id: word.id, japanese: word.japanese, english: word.english }]
     @data = {
       id: word.id,
-      status: 200,
       japanese: word.japanese,
       english: word.english,
       dummies: dummies
@@ -123,12 +142,12 @@ def make_exam(word)
   return @data
 end
 
-def make_dummmy(word, method)
+def make_dummmy(word, user , method)
   ary  = []
   if method == :random
     words = Word.where( category: word.category ).sample(3)
   else
-    words = User.find_by(uid: session[:uid]).words.where( category: word.category  ).sample(3)
+    words = user.words.where( category: word.category  ).sample(3)
   end
   words.each { |w| ary << {id: w.id, japanese: w.japanese, english: w.english} }
   return ary
