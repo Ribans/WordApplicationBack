@@ -30,27 +30,27 @@ $ docker-compose up
 
 ~~~json
 [{
-id: 484,
+"id": 484,
         "japanese": "重要な",
         "english": "significant"
 },
 {
-id: 1303,
+"id": 1303,
     "japanese": "叫ぶ",
     "english": "exclaim"
 },
 {
-id: 1923,
+"id": 1923,
     "japanese": "突然変異",
     "english": "mutation"
 },
 {
-id: 1788,
+"id": 1788,
     "japanese": "石油",
     "english": "petroleum"
 },
 {
-id: 1803,
+"id": 1803,
     "japanese": "陪審員",
     "english": "jury"
 }]
@@ -278,7 +278,7 @@ curl -X POST http://localhost:4567/forgot \
 }
 ~~~
 
-返却:
+返却:  
 status 200 //成功時  
 
 status  500 //失敗時
