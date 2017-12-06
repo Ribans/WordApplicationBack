@@ -39,7 +39,7 @@ post '/challenge' do  #チャレンジパート(実力)
     exam[:dummies] = (exam[:dummies] += make_dummmy(word, user, :user)).shuffle
     exam.shuffle.to_json
   else
-    {status: 401, message: "ログインしてください"}.to_json
+    {status: 401, message: "uidをjsonで同梱してください"}.to_json
   end
 end
 
@@ -61,7 +61,7 @@ post  '/training' do #トレーニング
     end
   else
     status 401
-    {message: "ログインしてください"}.to_json
+    {message: "uidをjsonで同梱してください"}.to_json
   end
 end
 
@@ -121,7 +121,7 @@ post '/tank-rate' do
     }.to_json
   else
     status 401
-    { message: "ログインしてください"}.to_json
+    { message: "uidをjsonで同梱してください"}.to_json
   end
 end
 
