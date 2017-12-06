@@ -31,28 +31,28 @@ $ docker-compose up
 ~~~json
 [{
 id: 484,
-        japanese: "重要な",
-        english: "significant"
+        "japanese": "重要な",
+        "english": "significant"
 },
 {
 id: 1303,
-    japanese: "叫ぶ",
-    english: "exclaim"
+    "japanese": "叫ぶ",
+    "english": "exclaim"
 },
 {
 id: 1923,
-    japanese: "突然変異",
-    english: "mutation"
+    "japanese": "突然変異",
+    "english": "mutation"
 },
 {
 id: 1788,
-    japanese: "石油",
-    english: "petroleum"
+    "japanese": "石油",
+    "english": "petroleum"
 },
 {
 id: 1803,
-    japanese: "陪審員",
-    english: "jury"
+    "japanese": "陪審員",
+    "english": "jury"
 }]
 ~~~
 
@@ -74,26 +74,26 @@ curl -X POST http://localhost:4567/challenge \
 返却:
 ~~~json
 {
-    id: 1,
-    status: 200,
-    japanese: "①～続く②～に従う",
-    english: "follow",
-    dummies: [
+    "id": 1,
+    "status": 200,
+    "japanese": "①～続く②～に従う",
+    "english": "follow",
+    "dummies": [
         {
-            japanese: "①～続く②～に従う",
-            english: "follow"
+            "japanese": "①～続く②～に従う",
+            "english": "follow"
         },
         {
-            japanese: "栄える",
-            english: "flourish"
+            "japanese": "栄える",
+            "english": "flourish"
         },
         {
-            japanese: "① ～ではないかと思う　②〈人・もの〉を疑う",
-            english: "suspect"
+            "japanese": "① ～ではないかと思う　②〈人・もの〉を疑う",
+            "english": "suspect"
         },
         {
-            japanese: "を理解する",
-            english: "comprehend"
+            "japanese": "を理解する",
+            "english": "comprehend"
         }
     ]
 }
@@ -103,7 +103,7 @@ or
 
 ~~~json
 //401
-{message: "uidをjsonで同梱してください"}
+{"message": "uidをjsonで同梱してください"}
 ~~~
 
 ## トレーニング
@@ -126,30 +126,30 @@ curl -X POST http://localhost:4567/training \
 
 ~~~json
 {
-    id: 160,
-    status: 200,
-    japanese: "由来する",
-    english: "derive",
-    dummies: [
+    "id": 160,
+    "status": 200,
+    "japanese": "由来する",
+    "english": "derive",
+    "dummies": [
         {
-            id: 160,
-            japanese: "由来する",
-            english: "derive"
+           "id": 160,
+           "japanese": "由来する",
+           "english": "derive"
         },
         {
-            id: 140,
-            japanese: "（～と）述べる",
-            english: "remark"
+            "id": 140,
+            "japanese": "（～と）述べる",
+            "english": "remark"
         },
         {
-            id: 180,
-            japanese: "存在する",
-            english: "exist"
+            "id": 180,
+            "japanese": "存在する",
+            "english": "exist"
         },
         {
-            id: 130,
-            japanese: "集中する",
-            english: "concentrate"
+            "id": 130,
+            "japanese": "集中する",
+            "english": "concentrate"
         }
     ]
 }
@@ -159,10 +159,10 @@ or
 
 ~~~json
 // 403
-{message: "もっと勉強しましょう"}
+{"message": "もっと勉強しましょう"}
 
 //401
-{message: "uidをjsonで同梱してください"}
+{"message": "uidをjsonで同梱してください"}
 ~~~
 
 ### Ankimoタンクの取得
@@ -182,17 +182,17 @@ curl -X POST http://localhost:4567/tank-rate \
 
 ~~~json
 {
-    verb: {
-    base: 679,
-       learned: 16
+    "verb": {
+    "base": 679,
+       "learned": 16
     },
-    noun: {
-        base: 856,
-        learned: 16
+    "noun": {
+        "base": 856,
+        "learned": 16
     },
-    conjunction: {
-        base: 486,
-        learned: 4
+    "conjunction": {
+        "base": 486,
+        "learned": 4
     }
 }
 ~~~
@@ -200,7 +200,7 @@ curl -X POST http://localhost:4567/tank-rate \
 or
 
 ~~~json
-{ message: "uidをjsonで同梱してください" }
+{ "message": "uidをjsonで同梱してください" }
 ~~~
 
 ###単語IDを元にダミーを作る
@@ -218,7 +218,7 @@ json
 
 ~~~json
 {
-    word_id: integer
+    "word_id": integer
 }
 ~~~
 
@@ -244,8 +244,8 @@ json
 
 ~~~json
 {
-    user_id: string,
-    word_id: integer
+    "user_id": string,
+    "word_id": integer
 }
 ~~~
 
@@ -255,7 +255,7 @@ json
 
 ~~~ json
 // 失敗時 status 500 を返却
-{message: "error message"} //失敗時
+{"message": "error message"} //失敗時
 ~~~
 
 ### ankimoタンクから削除
@@ -273,8 +273,8 @@ curl -X POST http://localhost:4567/forgot \
 
 ~~~json
 {
-    user_id: string,
-    word_id: integer
+    "user_id": string,
+    "word_id": integer
 }
 ~~~
 
