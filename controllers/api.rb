@@ -44,7 +44,7 @@ post '/challenge' do  #チャレンジパート(実力)
       { message: "もっと勉強しましょう"}.to_json
     end
   else
-    status 401
+    status 400
     { message: "uidをjsonで同梱してください"}.to_json
   end
 end
@@ -66,7 +66,7 @@ post  '/training' do #トレーニング
       {message: "もっと勉強しましょう"}.to_json
     end
   else
-    status 401
+    status 400
     {message: "uidをjsonで同梱してください"}.to_json
   end
 end
@@ -126,7 +126,7 @@ post '/tank-rate' do
       conjunction: {base: Word.where(category: 2).count, learned: c},
     }.to_json
   else
-    status 401
+    status 400
     { message: "uidをjsonで同梱してください"}.to_json
   end
 end
