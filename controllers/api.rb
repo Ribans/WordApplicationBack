@@ -35,11 +35,17 @@ post '/challenge' do  #チャレンジパート(実力)
   user = User.find_by(uid: params["uid"])
   if user 
     word = user.words.sample
-    exam = make_exam(word)
-    exam[:dummies] = (exam[:dummies] += make_dummmy(word, user, :user)).shuffle
-    exam.shuffle.to_json
+    if word
+      exam = make_exam(word)
+      exam[:dummies] = (exam[:dummies] += make_dummmy(word, user, :user)).shuffle
+      exam.to_json
+    else
+      status 403
+      { message: "もっと勉強しましょう"}.to_json
+    end
   else
-    {status: 401, message: "uidをjsonで同梱してください"}.to_json
+    status 401
+    { message: "uidをjsonで同梱してください"}.to_json
   end
 end
 
